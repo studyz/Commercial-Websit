@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fashion Store lite v1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-17 16:25+0200\n"
+"PO-Revision-Date: 2017-08-09 00:54+0400\n"
+"Last-Translator: Fashion Store lite <info@rgb-classic.com>\n"
+"Language-Team: Fashion Store lite <info@rgb-classic.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: szl\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Takij zajty niy szło znŏjś."
+
+# @ _s
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "Kōmyntŏrze sōm zawarte."
+
+#: functions.php:9
+msgid "Primary"
+msgstr "Primary"
+
+#: functions.php:39
+msgid "Right"
+msgstr "Right"
+
+#: functions.php:57
+msgid "Footer-1"
+msgstr "Footer-1"
+
+#: functions.php:66
+msgid "Footer-2"
+msgstr "Footer-2"
+
+#: functions.php:75
+msgid "Footer-3"
+msgstr "Footer-3"
+
+#: functions.php:84
+msgid "Footer-4"
+msgstr "Footer-4"
+
+#: footer.php:46
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Hyrsko podpiyrane ôd %s"
+
+#: footer.php:52
+msgid "Theme: %1$s"
+msgstr "%1$s"
+
+#: header.php:62
+msgid "View your shopping cart"
+msgstr " "
+
+#: header.php:62
+msgid "Cart:"
+msgstr " "
+
+#: inc/template-tags.php:19
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Ôpublikowane %s"
+
+#: inc/template-tags.php:24
+msgctxt "post author"
+msgid "by %s"
+msgstr "Autōr %s"
+
+#: inc/template-tags.php:41 inc/template-tags.php:47
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:43
+msgid "Posted in %1$s"
+msgstr " %1$s"
+
+#: inc/template-tags.php:49
+msgid "Tagged %1$s"
+msgstr "Tagi %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:56
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Ôstŏw kōmyntŏrz <span class=\"screen-reader-text\">na %s</span>"
+
+#: inc/template-tags.php:63 template-parts/content-page.php:22
+msgid "Edit %s"
+msgstr "Edytuj %s"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Wyniki szukaniŏ %s"
+
+#: template-parts/content-none.php:3
+msgid "Nothing Found"
+msgstr "Nic niy szło znŏjś"
+
+#: template-parts/content-none.php:10
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Fertich, coby ôpublikować swōj piyrszy post? <a href=\"%1$s\">Zacznij sam</a>."
+
+#: template-parts/content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Niy sztymuje ze kryteryjami. Sprōbuj ze inkszymi słowami."
+
+#: template-parts/content-none.php:20
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Niy szło znŏjś tego, co szukŏsz. Możnŏ zeszukowanie pōmoże."
+
+#: template-parts/content-page.php:11 template-parts/content.php:26
+msgid "Pages:"
+msgstr "Zajty:"
+
+#: template-parts/content.php:22
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Czytej dalij %s <span class=\"meta-nav\">&rarr;</span>"

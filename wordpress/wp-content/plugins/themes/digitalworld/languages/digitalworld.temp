@@ -1,0 +1,3342 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-11 22:40+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:1
+msgid "404"
+msgstr ""
+
+#: 404.php:1
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: 404.php:1
+msgid ""
+"Sorry, but the page you are looking for is not found. Please, make sure you "
+"have typed the current URL."
+msgstr ""
+
+#: 404.php:1
+msgid "Go to Home"
+msgstr ""
+
+#: comments.php:1
+msgid "Comment"
+msgstr ""
+
+#: comments.php:1 famework/includes/visual-composer.php:1270
+#: famework/settings/meta-box.php:129
+#: famework/widgets/product-categories.php:52
+#: famework/widgets/widget-woo-product-categories.php:52
+#: woocommerce/single-product/add-to-cart/grouped.php:33
+msgid "Name"
+msgstr ""
+
+#: comments.php:1
+msgid "Email"
+msgstr ""
+
+#: comments.php:1
+msgid "COMMENTS"
+msgstr ""
+
+#: comments.php:1
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:1
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:1
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: content-none.php:1
+msgid "Get started here"
+msgstr ""
+
+#: content-none.php:1
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:1
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: footer.php:1
+msgid "Back to top"
+msgstr ""
+
+#: page.php:1
+msgid "Pages:"
+msgstr ""
+
+#: page.php:1
+msgid "Page"
+msgstr ""
+
+#: product-searchform.php:3
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: product-searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: product-searchform.php:5
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:1
+msgid "Enter your keywords..."
+msgstr ""
+
+#: searchform.php:1 template_parts/search-form.php:39
+msgid "Search"
+msgstr ""
+
+#: famework/includes/theme-functions.php:159 template_parts/search-form.php:38
+msgid "Search..."
+msgstr ""
+
+#: famework/includes/theme-functions.php:451
+msgid "Comment navigation"
+msgstr ""
+
+#: famework/includes/theme-functions.php:454
+msgid "Older Comments"
+msgstr ""
+
+#: famework/includes/theme-functions.php:457
+msgid "Newer Comments"
+msgstr ""
+
+#: famework/includes/theme-functions.php:492
+#, php-format
+msgid "<span class=\"author\">%s</span>"
+msgstr ""
+
+#: famework/includes/theme-functions.php:496
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: famework/includes/theme-functions.php:496
+msgid "(Edit)"
+msgstr ""
+
+#: famework/includes/theme-functions.php:502
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: famework/includes/visual-composer.php:174
+#: famework/includes/visual-composer.php:330
+#: famework/includes/visual-composer.php:1267
+#: famework/includes/visual-composer.php:1418
+#: famework/includes/megamenu/nav_menu_custom_fields.php:20
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+msgid "None"
+msgstr ""
+
+#: famework/includes/visual-composer.php:254
+#: famework/includes/visual-composer.php:286
+msgid "Id"
+msgstr ""
+
+#: famework/includes/visual-composer.php:254
+#: famework/includes/visual-composer.php:284
+#: famework/includes/visual-composer.php:684
+#: famework/includes/visual-composer.php:1089
+#: famework/includes/visual-composer.php:1686
+#: famework/includes/visual-composer.php:1925
+#: famework/includes/visual-composer.php:1998
+#: famework/includes/visual-composer.php:2076
+#: famework/includes/visual-composer.php:2204
+#: famework/includes/visual-composer.php:2264
+#: famework/widgets/layered_nav.php:133
+#: famework/widgets/product-categories.php:44
+#: famework/widgets/widget-products.php:30
+#: famework/widgets/widget-woo-layered-nav.php:133
+#: famework/widgets/widget-woo-product-categories.php:44
+msgid "Title"
+msgstr ""
+
+#: famework/includes/visual-composer.php:254
+#: famework/includes/visual-composer.php:280
+msgid "Sku"
+msgstr ""
+
+#: famework/includes/visual-composer.php:326
+#: famework/includes/visual-composer.php:1414
+msgid "Effect"
+msgstr ""
+
+#: famework/includes/visual-composer.php:327
+#: famework/includes/visual-composer.php:1415
+msgid "Image Effect"
+msgstr ""
+
+#: famework/includes/visual-composer.php:331
+#: famework/includes/visual-composer.php:1419
+msgid "Effect1"
+msgstr ""
+
+#: famework/includes/visual-composer.php:332
+#: famework/includes/visual-composer.php:1420
+msgid "Effect2"
+msgstr ""
+
+#: famework/includes/visual-composer.php:333
+#: famework/includes/visual-composer.php:1421
+msgid "Effect3"
+msgstr ""
+
+#: famework/includes/visual-composer.php:334
+#: famework/includes/visual-composer.php:1422
+msgid "Effect4"
+msgstr ""
+
+#: famework/includes/visual-composer.php:335
+#: famework/includes/visual-composer.php:1423
+msgid "Effect5"
+msgstr ""
+
+#: famework/includes/visual-composer.php:336
+#: famework/includes/visual-composer.php:1424
+msgid "Effect6"
+msgstr ""
+
+#: famework/includes/visual-composer.php:337
+#: famework/includes/visual-composer.php:1425
+msgid "Effect7"
+msgstr ""
+
+#: famework/includes/visual-composer.php:338
+#: famework/includes/visual-composer.php:1426
+msgid "Effect8"
+msgstr ""
+
+#: famework/includes/visual-composer.php:339
+#: famework/includes/visual-composer.php:1427
+msgid "Effect9"
+msgstr ""
+
+#: famework/includes/visual-composer.php:348
+msgid "Digitalworld: Tabs"
+msgstr ""
+
+#: famework/includes/visual-composer.php:356
+#: famework/includes/visual-composer.php:456
+#: famework/includes/visual-composer.php:569
+#: famework/includes/visual-composer.php:1072
+#: famework/includes/visual-composer.php:1236
+#: famework/includes/visual-composer.php:1461
+#: famework/includes/visual-composer.php:1615
+#: famework/includes/visual-composer.php:1664
+#: famework/includes/visual-composer.php:1738
+#: famework/includes/visual-composer.php:1903
+#: famework/includes/visual-composer.php:1980
+#: famework/includes/visual-composer.php:2071
+#: famework/includes/visual-composer.php:2118
+#: famework/includes/visual-composer.php:2186
+#: famework/includes/visual-composer.php:2251
+msgid "Digitalworld Elements"
+msgstr ""
+
+#: famework/includes/visual-composer.php:357
+msgid "Tabbed content"
+msgstr ""
+
+#: famework/includes/visual-composer.php:361
+#: famework/includes/visual-composer.php:1076
+#: famework/includes/visual-composer.php:1241
+#: famework/includes/visual-composer.php:1466
+#: famework/includes/visual-composer.php:1669
+#: famework/includes/visual-composer.php:1746
+#: famework/includes/visual-composer.php:2256
+msgid "Select style"
+msgstr ""
+
+#: famework/includes/visual-composer.php:382
+msgid "Tabs title"
+msgstr ""
+
+#: famework/includes/visual-composer.php:393
+msgid "Tabs animate"
+msgstr ""
+
+#: famework/includes/visual-composer.php:400
+msgid "Using Ajax Tabs"
+msgstr ""
+
+#: famework/includes/visual-composer.php:403
+#: famework/includes/visual-composer.php:775
+#: famework/includes/visual-composer.php:791
+#: famework/includes/visual-composer.php:832
+#: famework/includes/visual-composer.php:1293
+#: famework/includes/visual-composer.php:1306
+#: famework/includes/visual-composer.php:1344
+#: famework/includes/visual-composer.php:1495
+#: famework/includes/visual-composer.php:1508
+#: famework/includes/visual-composer.php:1520
+#: famework/includes/visual-composer.php:1756
+#: famework/includes/visual-composer.php:1769
+#: famework/includes/visual-composer.php:1807
+msgid "Yes"
+msgstr ""
+
+#: famework/includes/visual-composer.php:404
+#: famework/includes/visual-composer.php:776
+#: famework/includes/visual-composer.php:790
+#: famework/includes/visual-composer.php:833
+#: famework/includes/visual-composer.php:1294
+#: famework/includes/visual-composer.php:1305
+#: famework/includes/visual-composer.php:1345
+#: famework/includes/visual-composer.php:1496
+#: famework/includes/visual-composer.php:1507
+#: famework/includes/visual-composer.php:1521
+#: famework/includes/visual-composer.php:1757
+#: famework/includes/visual-composer.php:1768
+#: famework/includes/visual-composer.php:1808
+msgid "No"
+msgstr ""
+
+#: famework/includes/visual-composer.php:410
+#: famework/includes/visual-composer.php:1048
+#: famework/includes/visual-composer.php:1201
+#: famework/includes/visual-composer.php:1433
+#: famework/includes/visual-composer.php:1590
+#: famework/includes/visual-composer.php:1638
+#: famework/includes/visual-composer.php:1713
+#: famework/includes/visual-composer.php:1947
+#: famework/includes/visual-composer.php:2037
+#: famework/includes/visual-composer.php:2091
+#: famework/includes/visual-composer.php:2159
+#: famework/includes/visual-composer.php:2225
+#: famework/includes/visual-composer.php:2272
+msgid "Extra class name"
+msgstr ""
+
+#: famework/includes/visual-composer.php:412
+#: famework/includes/visual-composer.php:1050
+#: famework/includes/visual-composer.php:1203
+#: famework/includes/visual-composer.php:1435
+#: famework/includes/visual-composer.php:1592
+#: famework/includes/visual-composer.php:1640
+#: famework/includes/visual-composer.php:1715
+#: famework/includes/visual-composer.php:1949
+#: famework/includes/visual-composer.php:2039
+#: famework/includes/visual-composer.php:2093
+#: famework/includes/visual-composer.php:2161
+#: famework/includes/visual-composer.php:2227
+#: famework/includes/visual-composer.php:2274
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: famework/includes/visual-composer.php:416
+#: famework/includes/visual-composer.php:1207
+msgid "CSS box"
+msgstr ""
+
+#: famework/includes/visual-composer.php:418
+#: famework/includes/visual-composer.php:1209
+msgid "Design Options"
+msgstr ""
+
+#: famework/includes/visual-composer.php:422
+#: famework/includes/visual-composer.php:522
+#: famework/includes/visual-composer.php:1060
+#: famework/includes/visual-composer.php:1213
+#: famework/includes/visual-composer.php:1445
+#: famework/includes/visual-composer.php:1602
+#: famework/includes/visual-composer.php:1644
+#: famework/includes/visual-composer.php:1725
+#: famework/includes/visual-composer.php:1889
+#: famework/includes/visual-composer.php:1959
+#: famework/includes/visual-composer.php:2049
+#: famework/includes/visual-composer.php:2103
+#: famework/includes/visual-composer.php:2171
+#: famework/includes/visual-composer.php:2237
+#: famework/includes/visual-composer.php:2284
+msgid "Hidden ID"
+msgstr ""
+
+#: famework/includes/visual-composer.php:442
+#: famework/includes/visual-composer.php:443
+msgid "Tab"
+msgstr ""
+
+#: famework/includes/visual-composer.php:453
+msgid "Digitalworld: Banner"
+msgstr ""
+
+#: famework/includes/visual-composer.php:465
+msgid "Banner Image"
+msgstr ""
+
+#: famework/includes/visual-composer.php:471
+#: famework/includes/visual-composer.php:482
+msgid "Content position"
+msgstr ""
+
+#: famework/includes/visual-composer.php:474
+#: famework/includes/visual-composer.php:756
+#: famework/includes/visual-composer.php:808
+#: famework/includes/visual-composer.php:932
+#: famework/includes/visual-composer.php:1320
+#: famework/includes/visual-composer.php:1469
+#: famework/includes/visual-composer.php:1626
+#: famework/includes/visual-composer.php:1749
+#: famework/includes/visual-composer.php:1783
+#: famework/includes/visual-composer.php:2259
+#: famework/settings/meta-box.php:25
+msgid "Default"
+msgstr ""
+
+#: famework/includes/visual-composer.php:475
+msgid "Content rotate"
+msgstr ""
+
+#: famework/includes/visual-composer.php:485
+#: famework/includes/visual-composer.php:496
+#: famework/includes/visual-composer.php:1697
+msgid "Left"
+msgstr ""
+
+#: famework/includes/visual-composer.php:486
+#: famework/includes/visual-composer.php:497
+#: famework/includes/visual-composer.php:498
+#: famework/includes/visual-composer.php:1698
+msgid "Right"
+msgstr ""
+
+#: famework/includes/visual-composer.php:493
+#: famework/includes/visual-composer.php:1694
+msgid "Text align"
+msgstr ""
+
+#: famework/includes/visual-composer.php:504
+msgid "Link to"
+msgstr ""
+
+#: famework/includes/visual-composer.php:509
+#: famework/includes/visual-composer.php:1876
+msgid "Extra Class Name"
+msgstr ""
+
+#: famework/includes/visual-composer.php:510
+#: famework/includes/visual-composer.php:1877
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: famework/includes/visual-composer.php:516
+#: famework/includes/visual-composer.php:1054
+#: famework/includes/visual-composer.php:1439
+#: famework/includes/visual-composer.php:1596
+#: famework/includes/visual-composer.php:1632
+#: famework/includes/visual-composer.php:1719
+#: famework/includes/visual-composer.php:1883
+#: famework/includes/visual-composer.php:1953
+#: famework/includes/visual-composer.php:2043
+#: famework/includes/visual-composer.php:2097
+#: famework/includes/visual-composer.php:2165
+#: famework/includes/visual-composer.php:2231
+#: famework/includes/visual-composer.php:2278
+msgid "Css"
+msgstr ""
+
+#: famework/includes/visual-composer.php:518
+#: famework/includes/visual-composer.php:1056
+#: famework/includes/visual-composer.php:1441
+#: famework/includes/visual-composer.php:1598
+#: famework/includes/visual-composer.php:1634
+#: famework/includes/visual-composer.php:1721
+#: famework/includes/visual-composer.php:1885
+#: famework/includes/visual-composer.php:1955
+#: famework/includes/visual-composer.php:2045
+#: famework/includes/visual-composer.php:2099
+#: famework/includes/visual-composer.php:2167
+#: famework/includes/visual-composer.php:2233
+#: famework/includes/visual-composer.php:2280
+msgid "Design options"
+msgstr ""
+
+#: famework/includes/visual-composer.php:566
+#: famework/widgets/widget-products.php:25
+msgid "Digitalworld: Products"
+msgstr ""
+
+#: famework/includes/visual-composer.php:570
+msgid "Display a product list."
+msgstr ""
+
+#: famework/includes/visual-composer.php:574
+msgid "Product List style"
+msgstr ""
+
+#: famework/includes/visual-composer.php:577
+#: famework/includes/woo-functions.php:190
+msgid "Grid"
+msgstr ""
+
+#: famework/includes/visual-composer.php:578
+msgid "Owl Carousel"
+msgstr ""
+
+#: famework/includes/visual-composer.php:580
+msgid "Select a style for list"
+msgstr ""
+
+#: famework/includes/visual-composer.php:586
+msgid "Product style"
+msgstr ""
+
+#: famework/includes/visual-composer.php:589
+#: famework/includes/visual-composer.php:1244
+msgid "Style 01"
+msgstr ""
+
+#: famework/includes/visual-composer.php:593
+msgid "Style 02"
+msgstr ""
+
+#: famework/includes/visual-composer.php:597
+msgid "Style 03"
+msgstr ""
+
+#: famework/includes/visual-composer.php:601
+msgid "Style 04"
+msgstr ""
+
+#: famework/includes/visual-composer.php:605
+msgid "Style 05"
+msgstr ""
+
+#: famework/includes/visual-composer.php:609
+msgid "Style 06"
+msgstr ""
+
+#: famework/includes/visual-composer.php:616
+msgid "Select a style for product item"
+msgstr ""
+
+#: famework/includes/visual-composer.php:620
+msgid "Image size"
+msgstr ""
+
+#: famework/includes/visual-composer.php:623
+msgid "Select a size for product"
+msgstr ""
+
+#: famework/includes/visual-composer.php:628
+msgid "Width"
+msgstr ""
+
+#: famework/includes/visual-composer.php:631
+#: famework/includes/visual-composer.php:639
+msgid "px"
+msgstr ""
+
+#: famework/includes/visual-composer.php:636
+msgid "Height"
+msgstr ""
+
+#: famework/includes/visual-composer.php:647
+#: famework/includes/visual-composer.php:666
+#: famework/includes/visual-composer.php:2140
+msgid "Product Category"
+msgstr ""
+
+#: famework/includes/visual-composer.php:653
+#: famework/includes/visual-composer.php:2146
+msgid "Choose category"
+msgstr ""
+
+#: famework/includes/visual-composer.php:654
+#: famework/includes/visual-composer.php:2147
+msgid ""
+"Note: If you want to narrow output, select category(s) above. Only selected "
+"categories will be displayed."
+msgstr ""
+
+#: famework/includes/visual-composer.php:656
+#: famework/includes/visual-composer.php:673
+#: famework/includes/visual-composer.php:694
+#: famework/includes/visual-composer.php:707
+#: famework/includes/visual-composer.php:715
+#: famework/includes/visual-composer.php:729
+msgid "Products options"
+msgstr ""
+
+#: famework/includes/visual-composer.php:660
+msgid "Target"
+msgstr ""
+
+#: famework/includes/visual-composer.php:663
+msgid "Best Selling Products"
+msgstr ""
+
+#: famework/includes/visual-composer.php:664
+msgid "Top Rated Products"
+msgstr ""
+
+#: famework/includes/visual-composer.php:665
+msgid "Recent Products"
+msgstr ""
+
+#: famework/includes/visual-composer.php:667
+#: famework/includes/visual-composer.php:719
+#: famework/includes/visual-composer.php:2212
+#: famework/widgets/widget-products.php:29
+msgid "Products"
+msgstr ""
+
+#: famework/includes/visual-composer.php:668
+#: famework/widgets/widget-products.php:54
+msgid "Featured Products"
+msgstr ""
+
+#: famework/includes/visual-composer.php:669
+msgid "On Sale"
+msgstr ""
+
+#: famework/includes/visual-composer.php:671
+msgid "Choose the target to filter products"
+msgstr ""
+
+#: famework/includes/visual-composer.php:677
+#: famework/includes/visual-composer.php:1264
+#: famework/widgets/product-categories.php:49
+#: famework/widgets/widget-products.php:61
+#: famework/widgets/widget-woo-product-categories.php:49
+msgid "Order by"
+msgstr ""
+
+#: famework/includes/visual-composer.php:681
+#: famework/includes/visual-composer.php:1271
+#: famework/widgets/widget-products.php:63
+msgid "Date"
+msgstr ""
+
+#: famework/includes/visual-composer.php:682
+#: famework/includes/visual-composer.php:1268
+msgid "ID"
+msgstr ""
+
+#: famework/includes/visual-composer.php:683
+#: famework/includes/visual-composer.php:1269
+msgid "Author"
+msgstr ""
+
+#: famework/includes/visual-composer.php:685
+#: famework/includes/visual-composer.php:1272
+msgid "Modified"
+msgstr ""
+
+#: famework/includes/visual-composer.php:686
+#: famework/widgets/widget-products.php:65
+msgid "Random"
+msgstr ""
+
+#: famework/includes/visual-composer.php:687
+msgid "Comment count"
+msgstr ""
+
+#: famework/includes/visual-composer.php:688
+msgid "Menu order"
+msgstr ""
+
+#: famework/includes/visual-composer.php:689
+msgid "Sale price"
+msgstr ""
+
+#: famework/includes/visual-composer.php:692
+msgid "Select how to sort."
+msgstr ""
+
+#: famework/includes/visual-composer.php:698
+#: famework/includes/visual-composer.php:1280
+msgid "Order"
+msgstr ""
+
+#: famework/includes/visual-composer.php:701
+#: famework/includes/visual-composer.php:1283
+#: famework/widgets/widget-products.php:74
+msgid "ASC"
+msgstr ""
+
+#: famework/includes/visual-composer.php:702
+#: famework/includes/visual-composer.php:1284
+#: famework/widgets/widget-products.php:75
+msgid "DESC"
+msgstr ""
+
+#: famework/includes/visual-composer.php:705
+#: famework/includes/visual-composer.php:1287
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: famework/includes/visual-composer.php:711
+msgid "Product per page"
+msgstr ""
+
+#: famework/includes/visual-composer.php:727
+#: famework/includes/visual-composer.php:2220
+msgid "Enter List of Products"
+msgstr ""
+
+#: famework/includes/visual-composer.php:735
+msgid "1 Row"
+msgstr ""
+
+#: famework/includes/visual-composer.php:736
+msgid "2 Rows"
+msgstr ""
+
+#: famework/includes/visual-composer.php:737
+msgid "3 Rows"
+msgstr ""
+
+#: famework/includes/visual-composer.php:738
+msgid "4 Rows"
+msgstr ""
+
+#: famework/includes/visual-composer.php:739
+msgid "5 Rows"
+msgstr ""
+
+#: famework/includes/visual-composer.php:742
+msgid "The number of rows which are shown on block"
+msgstr ""
+
+#: famework/includes/visual-composer.php:744
+#: famework/includes/visual-composer.php:769
+#: famework/includes/visual-composer.php:781
+#: famework/includes/visual-composer.php:797
+#: famework/includes/visual-composer.php:815
+#: famework/includes/visual-composer.php:823
+#: famework/includes/visual-composer.php:839
+#: famework/includes/visual-composer.php:852
+#: famework/includes/visual-composer.php:864
+#: famework/includes/visual-composer.php:876
+#: famework/includes/visual-composer.php:887
+#: famework/includes/visual-composer.php:898
+#: famework/includes/visual-composer.php:909
+#: famework/includes/visual-composer.php:920
+#: famework/includes/visual-composer.php:1299
+#: famework/includes/visual-composer.php:1312
+#: famework/includes/visual-composer.php:1327
+#: famework/includes/visual-composer.php:1335
+#: famework/includes/visual-composer.php:1351
+#: famework/includes/visual-composer.php:1360
+#: famework/includes/visual-composer.php:1369
+#: famework/includes/visual-composer.php:1377
+#: famework/includes/visual-composer.php:1385
+#: famework/includes/visual-composer.php:1393
+#: famework/includes/visual-composer.php:1401
+#: famework/includes/visual-composer.php:1409
+#: famework/includes/visual-composer.php:1501
+#: famework/includes/visual-composer.php:1514
+#: famework/includes/visual-composer.php:1527
+#: famework/includes/visual-composer.php:1536
+#: famework/includes/visual-composer.php:1545
+#: famework/includes/visual-composer.php:1553
+#: famework/includes/visual-composer.php:1561
+#: famework/includes/visual-composer.php:1569
+#: famework/includes/visual-composer.php:1577
+#: famework/includes/visual-composer.php:1585
+#: famework/includes/visual-composer.php:1762
+#: famework/includes/visual-composer.php:1775
+#: famework/includes/visual-composer.php:1790
+#: famework/includes/visual-composer.php:1798
+#: famework/includes/visual-composer.php:1814
+#: famework/includes/visual-composer.php:1823
+#: famework/includes/visual-composer.php:1832
+#: famework/includes/visual-composer.php:1840
+#: famework/includes/visual-composer.php:1848
+#: famework/includes/visual-composer.php:1856
+#: famework/includes/visual-composer.php:1864
+#: famework/includes/visual-composer.php:1872
+msgid "Carousel settings"
+msgstr ""
+
+#: famework/includes/visual-composer.php:753
+#: famework/includes/visual-composer.php:929
+msgid "Rows space"
+msgstr ""
+
+#: famework/includes/visual-composer.php:757
+#: famework/includes/visual-composer.php:933
+msgid "10px"
+msgstr ""
+
+#: famework/includes/visual-composer.php:758
+#: famework/includes/visual-composer.php:934
+msgid "20px"
+msgstr ""
+
+#: famework/includes/visual-composer.php:759
+#: famework/includes/visual-composer.php:935
+msgid "30px"
+msgstr ""
+
+#: famework/includes/visual-composer.php:760
+#: famework/includes/visual-composer.php:936
+msgid "40px"
+msgstr ""
+
+#: famework/includes/visual-composer.php:761
+#: famework/includes/visual-composer.php:937
+msgid "50px"
+msgstr ""
+
+#: famework/includes/visual-composer.php:762
+#: famework/includes/visual-composer.php:938
+msgid "60px"
+msgstr ""
+
+#: famework/includes/visual-composer.php:763
+#: famework/includes/visual-composer.php:939
+msgid "70px"
+msgstr ""
+
+#: famework/includes/visual-composer.php:764
+#: famework/includes/visual-composer.php:940
+msgid "80px"
+msgstr ""
+
+#: famework/includes/visual-composer.php:765
+#: famework/includes/visual-composer.php:941
+msgid "90px"
+msgstr ""
+
+#: famework/includes/visual-composer.php:766
+#: famework/includes/visual-composer.php:942
+msgid "100px"
+msgstr ""
+
+#: famework/includes/visual-composer.php:779
+#: famework/includes/visual-composer.php:1297
+#: famework/includes/visual-composer.php:1499
+#: famework/includes/visual-composer.php:1760
+msgid "AutoPlay"
+msgstr ""
+
+#: famework/includes/visual-composer.php:794
+#: famework/includes/visual-composer.php:1309
+#: famework/includes/visual-composer.php:1511
+#: famework/includes/visual-composer.php:1772
+msgid "Navigation"
+msgstr ""
+
+#: famework/includes/visual-composer.php:796
+#: famework/includes/visual-composer.php:1311
+#: famework/includes/visual-composer.php:1513
+#: famework/includes/visual-composer.php:1774
+msgid "Show buton 'next' and 'prev' buttons."
+msgstr ""
+
+#: famework/includes/visual-composer.php:805
+#: famework/includes/visual-composer.php:1317
+#: famework/includes/visual-composer.php:1780
+msgid "Navigation position"
+msgstr ""
+
+#: famework/includes/visual-composer.php:809
+#: famework/includes/visual-composer.php:1321
+#: famework/includes/visual-composer.php:1699
+#: famework/includes/visual-composer.php:1784
+msgid "Center"
+msgstr ""
+
+#: famework/includes/visual-composer.php:810
+#: famework/includes/visual-composer.php:1322
+#: famework/includes/visual-composer.php:1785
+msgid "Top Left"
+msgstr ""
+
+#: famework/includes/visual-composer.php:811
+#: famework/includes/visual-composer.php:1323
+#: famework/includes/visual-composer.php:1786
+msgid "Top right"
+msgstr ""
+
+#: famework/includes/visual-composer.php:812
+#: famework/includes/visual-composer.php:1324
+#: famework/includes/visual-composer.php:1787
+msgid "Bottom right"
+msgstr ""
+
+#: famework/includes/visual-composer.php:820
+#: famework/includes/visual-composer.php:1332
+#: famework/includes/visual-composer.php:1795
+msgid "Postion Top"
+msgstr ""
+
+#: famework/includes/visual-composer.php:836
+#: famework/includes/visual-composer.php:1348
+#: famework/includes/visual-composer.php:1524
+#: famework/includes/visual-composer.php:1811
+msgid "Loop"
+msgstr ""
+
+#: famework/includes/visual-composer.php:838
+#: famework/includes/visual-composer.php:1350
+#: famework/includes/visual-composer.php:1526
+#: famework/includes/visual-composer.php:1813
+msgid "Inifnity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: famework/includes/visual-composer.php:847
+#: famework/includes/visual-composer.php:1356
+#: famework/includes/visual-composer.php:1532
+#: famework/includes/visual-composer.php:1819
+msgid "Slide Speed"
+msgstr ""
+
+#: famework/includes/visual-composer.php:850
+msgid "milliseconds"
+msgstr ""
+
+#: famework/includes/visual-composer.php:851
+#: famework/includes/visual-composer.php:1359
+#: famework/includes/visual-composer.php:1535
+#: famework/includes/visual-composer.php:1822
+msgid "Slide speed in milliseconds"
+msgstr ""
+
+#: famework/includes/visual-composer.php:860
+#: famework/includes/visual-composer.php:1365
+#: famework/includes/visual-composer.php:1541
+#: famework/includes/visual-composer.php:1828
+msgid "Margin"
+msgstr ""
+
+#: famework/includes/visual-composer.php:863
+#: famework/includes/visual-composer.php:1368
+#: famework/includes/visual-composer.php:1544
+#: famework/includes/visual-composer.php:1831
+msgid "Distance( or space) between 2 item"
+msgstr ""
+
+#: famework/includes/visual-composer.php:873
+#: famework/includes/visual-composer.php:1374
+#: famework/includes/visual-composer.php:1550
+#: famework/includes/visual-composer.php:1837
+msgid "The items on desktop (Screen resolution of device >= 1200px )"
+msgstr ""
+
+#: famework/includes/visual-composer.php:884
+#: famework/includes/visual-composer.php:1382
+#: famework/includes/visual-composer.php:1558
+#: famework/includes/visual-composer.php:1845
+msgid "The items on desktop (Screen resolution of device >= 992px < 1200px )"
+msgstr ""
+
+#: famework/includes/visual-composer.php:895
+#: famework/includes/visual-composer.php:1390
+#: famework/includes/visual-composer.php:1566
+#: famework/includes/visual-composer.php:1853
+msgid "The items on tablet (Screen resolution of device >=768px and < 992px )"
+msgstr ""
+
+#: famework/includes/visual-composer.php:906
+#: famework/includes/visual-composer.php:1398
+#: famework/includes/visual-composer.php:1574
+#: famework/includes/visual-composer.php:1861
+msgid ""
+"The items on mobile landscape(Screen resolution of device >=480px and < "
+"768px)"
+msgstr ""
+
+#: famework/includes/visual-composer.php:917
+#: famework/includes/visual-composer.php:1406
+#: famework/includes/visual-composer.php:1582
+#: famework/includes/visual-composer.php:1869
+msgid "The items on mobile (Screen resolution of device < 480px)"
+msgstr ""
+
+#: famework/includes/visual-composer.php:945
+#: famework/includes/visual-composer.php:964
+#: famework/includes/visual-composer.php:983
+#: famework/includes/visual-composer.php:1002
+#: famework/includes/visual-composer.php:1021
+#: famework/includes/visual-composer.php:1040
+msgid "Boostrap settings"
+msgstr ""
+
+#: famework/includes/visual-composer.php:953
+#: famework/settings/theme-options.php:540
+msgid "Items per row on Desktop"
+msgstr ""
+
+#: famework/includes/visual-composer.php:956
+#: famework/includes/visual-composer.php:975
+#: famework/includes/visual-composer.php:994
+#: famework/includes/visual-composer.php:1013
+#: famework/includes/visual-composer.php:1032
+msgid "1 item"
+msgstr ""
+
+#: famework/includes/visual-composer.php:957
+#: famework/includes/visual-composer.php:976
+#: famework/includes/visual-composer.php:995
+#: famework/includes/visual-composer.php:1014
+#: famework/includes/visual-composer.php:1033
+msgid "2 items"
+msgstr ""
+
+#: famework/includes/visual-composer.php:958
+#: famework/includes/visual-composer.php:977
+#: famework/includes/visual-composer.php:996
+#: famework/includes/visual-composer.php:1015
+#: famework/includes/visual-composer.php:1034
+msgid "3 items"
+msgstr ""
+
+#: famework/includes/visual-composer.php:959
+#: famework/includes/visual-composer.php:978
+#: famework/includes/visual-composer.php:997
+#: famework/includes/visual-composer.php:1016
+#: famework/includes/visual-composer.php:1035
+msgid "4 items"
+msgstr ""
+
+#: famework/includes/visual-composer.php:960
+#: famework/includes/visual-composer.php:979
+#: famework/includes/visual-composer.php:998
+#: famework/includes/visual-composer.php:1017
+#: famework/includes/visual-composer.php:1036
+msgid "5 item"
+msgstr ""
+
+#: famework/includes/visual-composer.php:961
+#: famework/includes/visual-composer.php:980
+#: famework/includes/visual-composer.php:999
+#: famework/includes/visual-composer.php:1018
+#: famework/includes/visual-composer.php:1037
+msgid "6 item"
+msgstr ""
+
+#: famework/includes/visual-composer.php:963
+msgid "(Item per row on screen resolution of device >= 1200px )"
+msgstr ""
+
+#: famework/includes/visual-composer.php:972
+#: famework/settings/theme-options.php:556
+msgid "Items per row on landscape tablet"
+msgstr ""
+
+#: famework/includes/visual-composer.php:982
+msgid "(Item per row on screen resolution of device >=992px and < 1200px )"
+msgstr ""
+
+#: famework/includes/visual-composer.php:991
+#: famework/settings/theme-options.php:572
+msgid "Items per row on portrait tablet"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1001
+msgid "(Item per row on screen resolution of device >=768px and < 992px )"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1010
+#: famework/includes/visual-composer.php:1029
+#: famework/settings/theme-options.php:588
+#: famework/settings/theme-options.php:604
+msgid "Items per row on Mobile"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1020
+msgid "(Item per row on screen resolution of device >=480  add < 768px )"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1039
+msgid "(Item per row on screen resolution of device < 480px)"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1069
+msgid "Icon Box"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1095
+msgid "Content"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1101
+msgid "Icon Library"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1104
+#: famework/includes/megamenu/megamenu.php:111
+msgid "Font Awesome"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1105
+msgid "Open Iconic"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1106
+msgid "Typicons"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1107
+msgid "Entypo"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1108
+msgid "Linecons"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1109
+msgid "Other"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1114
+#: famework/includes/visual-composer.php:1128
+#: famework/includes/visual-composer.php:1142
+#: famework/includes/visual-composer.php:1157
+#: famework/includes/visual-composer.php:1172
+#: famework/includes/visual-composer.php:1186
+msgid "Icon"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1115
+#: famework/includes/visual-composer.php:1129
+#: famework/includes/visual-composer.php:1143
+#: famework/includes/visual-composer.php:1158
+#: famework/includes/visual-composer.php:1187
+msgid "Select icon from library."
+msgstr ""
+
+#: famework/includes/visual-composer.php:1223
+msgid "All"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1233
+msgid "Digitalworld: Blogs"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1237
+msgid "Display a blog lists."
+msgstr ""
+
+#: famework/includes/visual-composer.php:1249
+msgid "Number Post"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1253
+msgid "Number post in a slide"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1259
+msgid "Category filter:"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1273
+msgid "Rand"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1276
+msgid "Select how to sort retrieved posts."
+msgstr ""
+
+#: famework/includes/visual-composer.php:1458
+#: famework/widgets/widget-instagram.php:14
+msgid "Digitalworld: Instagram"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1462
+msgid "Display a instagram photo lists."
+msgstr ""
+
+#: famework/includes/visual-composer.php:1474
+msgid "Images limit"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1481
+msgid "Instagram user ID"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1487
+msgid "Access token"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1613
+msgid "Digitalworld: Container"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1623
+msgid "Content width"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1661
+msgid "Digitalworld: Socials"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1665
+msgid "Display a social list."
+msgstr ""
+
+#: famework/includes/visual-composer.php:1688
+#: famework/includes/visual-composer.php:1927
+#: famework/includes/visual-composer.php:2000
+#: famework/includes/visual-composer.php:2078
+#: famework/includes/visual-composer.php:2206
+#: famework/includes/visual-composer.php:2266
+msgid "The title of shortcode"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1705
+msgid "Display on"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1736
+msgid "Digitalworld: Slider"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1900
+#: famework/widgets/widget-newsletter.php:17
+msgid "Digitalworld: Newsletter"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1904
+msgid "Display a newsletter box."
+msgstr ""
+
+#: famework/includes/visual-composer.php:1908
+#: famework/includes/visual-composer.php:1985
+#: famework/includes/visual-composer.php:2123
+#: famework/includes/visual-composer.php:2191
+#: famework/settings/theme-options.php:634
+msgid "Layout"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1933
+msgid "Sub title"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1935
+msgid "The sub title of shortcode"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1940
+msgid "Placeholder text"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1977
+msgid "Digitalworld: Vertical Menu"
+msgstr ""
+
+#: famework/includes/visual-composer.php:1981
+msgid "Display a vertical menu."
+msgstr ""
+
+#: famework/includes/visual-composer.php:2006
+#: famework/includes/visual-composer.php:2084
+msgid "Menu"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2009
+#: famework/includes/visual-composer.php:2087
+msgid "Select menu to display."
+msgstr ""
+
+#: famework/includes/visual-composer.php:2013
+#: famework/includes/visual-composer.php:2015
+msgid "Button close text"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2017
+#: famework/settings/theme-options.php:448
+msgid "Close"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2021
+#: famework/includes/visual-composer.php:2023
+msgid "Button all text"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2025
+#: famework/settings/theme-options.php:440 template_parts/search-form.php:8
+msgid "All Categories"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2029
+msgid "Limit items"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2031
+msgid "Limit item for showing"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2068
+msgid "Digitalworld: Custom Menu"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2072
+msgid "Display a custom menu."
+msgstr ""
+
+#: famework/includes/visual-composer.php:2115
+msgid "Digitalworld: Categories"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2119
+msgid "Display Categories."
+msgstr ""
+
+#: famework/includes/visual-composer.php:2152
+msgid "Background"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2183
+msgid "Digitalworld: Deal"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2187
+msgid "Display Deal of Day."
+msgstr ""
+
+#: famework/includes/visual-composer.php:2248
+msgid "Digitalworld: Section Title"
+msgstr ""
+
+#: famework/includes/visual-composer.php:2252
+msgid "Display a custom title."
+msgstr ""
+
+#: famework/includes/woo-functions.php:168
+msgid "Prev"
+msgstr ""
+
+#: famework/includes/woo-functions.php:169
+msgid "Next"
+msgstr ""
+
+#: famework/includes/woo-functions.php:191 famework/widgets/layered_nav.php:84
+#: famework/widgets/layered_nav.php:146
+#: famework/widgets/widget-woo-layered-nav.php:84
+#: famework/widgets/widget-woo-layered-nav.php:146
+msgid "List"
+msgstr ""
+
+#: famework/includes/woo-functions.php:205
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: famework/includes/woo-functions.php:441
+msgid "share on facebook"
+msgstr ""
+
+#: famework/includes/woo-functions.php:442
+msgid "share on twitter"
+msgstr ""
+
+#: famework/includes/woo-functions.php:443
+msgid "share on google+"
+msgstr ""
+
+#: famework/includes/woo-functions.php:444
+msgid "share on linkedin"
+msgstr ""
+
+#: famework/includes/woo-functions.php:445
+msgid "share on tumblr"
+msgstr ""
+
+#: famework/includes/woo-functions.php:460
+#: famework/includes/woo-functions.php:464
+msgid "First name"
+msgstr ""
+
+#: famework/includes/woo-functions.php:477
+msgid "Avaiability: "
+msgstr ""
+
+#: famework/includes/woo-functions.php:477
+msgid "In Stock"
+msgstr ""
+
+#: famework/includes/woo-functions.php:477
+msgid "Out Of Stock"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:248
+msgid "Browse:"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:249
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:250
+msgid "Home"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:251
+msgid "404 Not Found"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:252
+msgid "Archives"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:254
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:256
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:258
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:260
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:712
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:729
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:746
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:762
+#: famework/includes/classes/breadcrumbs.php:791
+#: famework/includes/classes/breadcrumbs.php:818
+#: famework/includes/classes/breadcrumbs.php:845
+#: famework/includes/classes/breadcrumbs.php:1185
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:763
+#: famework/includes/classes/breadcrumbs.php:819
+#: famework/includes/classes/breadcrumbs.php:1189
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:764
+#: famework/includes/classes/breadcrumbs.php:1193
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: famework/includes/classes/breadcrumbs.php:792
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:386
+#: famework/includes/classes/class-tgm-plugin-activation.php:827
+#: famework/includes/classes/class-tgm-plugin-activation.php:2533
+#: famework/includes/classes/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:387
+#: famework/includes/classes/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:388
+#: famework/includes/classes/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:934
+#: famework/includes/classes/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:1121
+#: famework/includes/classes/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2549
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+msgid "Type"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3509
+#: famework/includes/classes/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3509
+#: famework/includes/classes/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: famework/includes/classes/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: famework/includes/megamenu/megamenu.php:138
+msgid "No Font"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:81
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:85
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:121
+msgid "sub item"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:136
+msgid "Move up"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:149
+msgid "Move down"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:151
+#: famework/includes/megamenu/nav_edit_custom_walker.php:153
+msgid "Edit Menu Item"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:161
+msgid "URL"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:168
+msgid "Navigation Label"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:174
+msgid "Title Attribute"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:181
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:186
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:192
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:198
+msgid "Description"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:200
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:206
+msgid "Move"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:207
+msgid "Up one"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:208
+msgid "Down one"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:211
+msgid "To the top"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:217
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:230
+#: woocommerce/cart/mini-cart.php:44
+msgid "Remove"
+msgstr ""
+
+#: famework/includes/megamenu/nav_edit_custom_walker.php:231
+msgid "Cancel"
+msgstr ""
+
+#: famework/includes/megamenu/nav_menu_custom_fields.php:19
+msgid "Icon Settings"
+msgstr ""
+
+#: famework/includes/megamenu/nav_menu_custom_fields.php:21
+msgid "Font icon"
+msgstr ""
+
+#: famework/includes/megamenu/nav_menu_custom_fields.php:22
+msgid "Image"
+msgstr ""
+
+#: famework/includes/megamenu/nav_menu_custom_fields.php:36
+msgid "Select Icon"
+msgstr ""
+
+#: famework/includes/megamenu/nav_menu_custom_fields.php:68
+msgid "Image preview"
+msgstr ""
+
+#: famework/includes/megamenu/nav_menu_custom_fields.php:70
+msgid "Icon Image "
+msgstr ""
+
+#: famework/includes/megamenu/nav_menu_custom_fields.php:76
+msgid "Mega menu settings"
+msgstr ""
+
+#: famework/includes/megamenu/walker.php:244
+msgid "Currency:"
+msgstr ""
+
+#: famework/includes/megamenu/walker.php:256
+msgid "Logout"
+msgstr ""
+
+#: famework/includes/megamenu/walker.php:258
+#: template_parts/header-block-user.php:5 template_parts/header-userlink.php:5
+msgid "Login"
+msgstr ""
+
+#: famework/includes/megamenu/walker.php:415
+msgid "Add a menu"
+msgstr ""
+
+#: famework/includes/meta-box/meta-box.php:177
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+msgid "Color style"
+msgstr ""
+
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+msgid "Select terms"
+msgstr ""
+
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+msgid "Select all"
+msgstr ""
+
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+msgid "Select none"
+msgstr ""
+
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+msgid "Add new"
+msgstr ""
+
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+#: famework/settings/theme-options.php:282 famework/widgets/layered_nav.php:87
+#: famework/widgets/widget-woo-layered-nav.php:87
+msgid "Color"
+msgstr ""
+
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+msgid "Photo"
+msgstr ""
+
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+msgid "Thumbnail"
+msgstr ""
+
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+msgid "Upload/Add image"
+msgstr ""
+
+#: famework/includes/woo-attributes-swatches/woo-product-attribute-meta.php:1
+msgid "Remove image"
+msgstr ""
+
+#: famework/settings/meta-box.php:50
+msgid "Page layout"
+msgstr ""
+
+#: famework/settings/meta-box.php:57 famework/settings/meta-box.php:71
+#: famework/settings/meta-box.php:79 famework/settings/meta-box.php:94
+#: famework/settings/theme-options.php:252
+msgid "General"
+msgstr ""
+
+#: famework/settings/meta-box.php:61
+msgid "Sidebar for page layout"
+msgstr ""
+
+#: famework/settings/meta-box.php:66
+msgid "Setting sidebar in the area sidebar"
+msgstr ""
+
+#: famework/settings/meta-box.php:75
+msgid "Extra page class"
+msgstr ""
+
+#: famework/settings/meta-box.php:76
+msgid ""
+"If you wish to add extra classes to the body class of the page (for custom "
+"css use), then please add the class(es) here."
+msgstr ""
+
+#: famework/settings/meta-box.php:85
+msgid "Page type"
+msgstr ""
+
+#: famework/settings/meta-box.php:86
+msgid "This page can be used as homepage or default page"
+msgstr ""
+
+#: famework/settings/meta-box.php:91
+msgid "Default page"
+msgstr ""
+
+#: famework/settings/meta-box.php:92
+msgid "Home page"
+msgstr ""
+
+#: famework/settings/meta-box.php:100
+msgid "Page Options"
+msgstr ""
+
+#: famework/settings/meta-box.php:108
+msgid "Footer Options"
+msgstr ""
+
+#: famework/settings/meta-box.php:112 famework/settings/meta-box.php:117
+msgid "Template"
+msgstr ""
+
+#: famework/settings/meta-box.php:125
+msgid "Testimonial Options"
+msgstr ""
+
+#: famework/settings/meta-box.php:134
+msgid "Position"
+msgstr ""
+
+#: famework/settings/theme-options.php:128
+msgid "Section via hook"
+msgstr ""
+
+#: famework/settings/theme-options.php:129
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: famework/settings/theme-options.php:206
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: famework/settings/theme-options.php:214
+#: famework/settings/theme-options.php:218
+msgid "Current theme preview"
+msgstr ""
+
+#: famework/settings/theme-options.php:227
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: famework/settings/theme-options.php:228
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: famework/settings/theme-options.php:229
+msgid "Tags"
+msgstr ""
+
+#: famework/settings/theme-options.php:235
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: famework/settings/theme-options.php:235
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: famework/settings/theme-options.php:254
+msgid "This General Setings"
+msgstr ""
+
+#: famework/settings/theme-options.php:261
+#: famework/settings/theme-options.php:271
+msgid "Logo"
+msgstr ""
+
+#: famework/settings/theme-options.php:265
+msgid "Setting logo of site"
+msgstr ""
+
+#: famework/settings/theme-options.php:274
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: famework/settings/theme-options.php:275
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: famework/settings/theme-options.php:283
+msgid "Setting Color of site "
+msgstr ""
+
+#: famework/settings/theme-options.php:290
+msgid "Main site Color"
+msgstr ""
+
+#: famework/settings/theme-options.php:291
+msgid "Pick a background color for the theme (default: #fcd022)."
+msgstr ""
+
+#: famework/settings/theme-options.php:298
+msgid "Main site Color 2"
+msgstr ""
+
+#: famework/settings/theme-options.php:299
+msgid "Pick a background color for the theme (default: #e5b700)."
+msgstr ""
+
+#: famework/settings/theme-options.php:306
+msgid "Button hover color"
+msgstr ""
+
+#: famework/settings/theme-options.php:313
+msgid "Body Background color"
+msgstr ""
+
+#: famework/settings/theme-options.php:314
+msgid "Body background color for the theme (default: #fff)."
+msgstr ""
+
+#: famework/settings/theme-options.php:321
+#: famework/settings/theme-options.php:647
+#: famework/settings/theme-options.php:712
+#: famework/settings/theme-options.php:834
+msgid "Sidebar"
+msgstr ""
+
+#: famework/settings/theme-options.php:328
+msgid "Sidebars"
+msgstr ""
+
+#: famework/settings/theme-options.php:329
+msgid "Add custom sidebars."
+msgstr ""
+
+#: famework/settings/theme-options.php:330
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: famework/settings/theme-options.php:336
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: famework/settings/theme-options.php:337
+msgid "Custom css,js your site "
+msgstr ""
+
+#: famework/settings/theme-options.php:344
+msgid "Custom CSS"
+msgstr ""
+
+#: famework/settings/theme-options.php:345
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: famework/settings/theme-options.php:354
+msgid "Custom JS "
+msgstr ""
+
+#: famework/settings/theme-options.php:355
+msgid "Paste your custom JS code here."
+msgstr ""
+
+#: famework/settings/theme-options.php:365
+msgid "Header"
+msgstr ""
+
+#: famework/settings/theme-options.php:367
+msgid "Header Setings"
+msgstr ""
+
+#: famework/settings/theme-options.php:374
+msgid "Header Layout"
+msgstr ""
+
+#: famework/settings/theme-options.php:375
+msgid "Select a header layout"
+msgstr ""
+
+#: famework/settings/theme-options.php:382
+msgid "Main Menu Sticky"
+msgstr ""
+
+#: famework/settings/theme-options.php:384
+#: famework/settings/theme-options.php:392
+#: famework/settings/theme-options.php:403
+#: famework/settings/theme-options.php:523
+#: famework/settings/theme-options.php:674
+#: famework/settings/theme-options.php:844
+#: famework/settings/theme-options.php:854
+msgid "On"
+msgstr ""
+
+#: famework/settings/theme-options.php:385
+#: famework/settings/theme-options.php:393
+#: famework/settings/theme-options.php:404
+#: famework/settings/theme-options.php:524
+#: famework/settings/theme-options.php:675
+#: famework/settings/theme-options.php:845
+#: famework/settings/theme-options.php:855
+msgid "Off"
+msgstr ""
+
+#: famework/settings/theme-options.php:390
+msgid "Wishlist link"
+msgstr ""
+
+#: famework/settings/theme-options.php:401
+msgid "Compare link"
+msgstr ""
+
+#: famework/settings/theme-options.php:411
+msgid "Hot line: (+800) 123 456 7899"
+msgstr ""
+
+#: famework/settings/theme-options.php:416
+#: famework/settings/theme-options.php:417
+msgid "Vertical Menu Settings"
+msgstr ""
+
+#: famework/settings/theme-options.php:421
+msgid "Use Vertical Menu"
+msgstr ""
+
+#: famework/settings/theme-options.php:425
+#: famework/settings/theme-options.php:456
+#: famework/settings/theme-options.php:1144
+msgid "Enable"
+msgstr ""
+
+#: famework/settings/theme-options.php:426
+#: famework/settings/theme-options.php:457
+#: famework/settings/theme-options.php:1145
+msgid "Disable"
+msgstr ""
+
+#: famework/settings/theme-options.php:427
+msgid "Use Vertical Menu on show any page"
+msgstr ""
+
+#: famework/settings/theme-options.php:433
+msgid "Shop By Category"
+msgstr ""
+
+#: famework/settings/theme-options.php:452
+msgid "Collapse"
+msgstr ""
+
+#: famework/settings/theme-options.php:458
+msgid "Vertical menu will expand on click"
+msgstr ""
+
+#: famework/settings/theme-options.php:463
+#: famework/settings/theme-options.php:464
+msgid "The number of visible vertical menu items"
+msgstr ""
+
+#: famework/settings/theme-options.php:475
+#: famework/settings/theme-options.php:476
+msgid "Footer Settings"
+msgstr ""
+
+#: famework/settings/theme-options.php:484
+msgid "Footer Display"
+msgstr ""
+
+#: famework/settings/theme-options.php:490
+msgid "Blog Settings"
+msgstr ""
+
+#: famework/settings/theme-options.php:492
+msgid "This Blog Setings"
+msgstr ""
+
+#: famework/settings/theme-options.php:500
+msgid "Blog Layout"
+msgstr ""
+
+#: famework/settings/theme-options.php:501
+#: famework/settings/theme-options.php:635
+msgid "Select a layout."
+msgstr ""
+
+#: famework/settings/theme-options.php:513
+msgid "Blog Sidebar"
+msgstr ""
+
+#: famework/settings/theme-options.php:521
+msgid "Use Placehold"
+msgstr ""
+
+#: famework/settings/theme-options.php:530
+msgid "Blog Layout Style"
+msgstr ""
+
+#: famework/settings/theme-options.php:532
+msgid "List Style"
+msgstr ""
+
+#: famework/settings/theme-options.php:533
+msgid "Grid Style"
+msgstr ""
+
+#: famework/settings/theme-options.php:541
+#: famework/settings/theme-options.php:732
+#: famework/settings/theme-options.php:860
+#: famework/settings/theme-options.php:957
+#: famework/settings/theme-options.php:1058
+#: famework/settings/theme-options.php:1157
+#: famework/settings/theme-options.php:1254
+msgid "(Screen resolution of device >= 1200px )"
+msgstr ""
+
+#: famework/settings/theme-options.php:557
+#: famework/settings/theme-options.php:748
+#: famework/settings/theme-options.php:876
+#: famework/settings/theme-options.php:972
+#: famework/settings/theme-options.php:1073
+#: famework/settings/theme-options.php:1173
+#: famework/settings/theme-options.php:1269
+msgid "(Screen resolution of device >=992px and < 1200px )"
+msgstr ""
+
+#: famework/settings/theme-options.php:573
+#: famework/settings/theme-options.php:764
+#: famework/settings/theme-options.php:892
+#: famework/settings/theme-options.php:987
+#: famework/settings/theme-options.php:1088
+#: famework/settings/theme-options.php:1189
+#: famework/settings/theme-options.php:1284
+msgid "(Screen resolution of device >=768px and < 992px )"
+msgstr ""
+
+#: famework/settings/theme-options.php:589
+#: famework/settings/theme-options.php:780
+#: famework/settings/theme-options.php:908
+#: famework/settings/theme-options.php:1002
+#: famework/settings/theme-options.php:1103
+#: famework/settings/theme-options.php:1205
+#: famework/settings/theme-options.php:1299
+msgid "(Screen resolution of device >=480  add < 768px)"
+msgstr ""
+
+#: famework/settings/theme-options.php:605
+#: famework/settings/theme-options.php:796
+#: famework/settings/theme-options.php:924
+#: famework/settings/theme-options.php:1017
+#: famework/settings/theme-options.php:1118
+#: famework/settings/theme-options.php:1221
+#: famework/settings/theme-options.php:1314
+msgid "(Screen resolution of device < 480px)"
+msgstr ""
+
+#: famework/settings/theme-options.php:624
+msgid "Single post"
+msgstr ""
+
+#: famework/settings/theme-options.php:626
+msgid "This Single post Setings"
+msgstr ""
+
+#: famework/settings/theme-options.php:657
+msgid "WooCommerce"
+msgstr ""
+
+#: famework/settings/theme-options.php:658
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: famework/settings/theme-options.php:662
+msgid "Products perpage"
+msgstr ""
+
+#: famework/settings/theme-options.php:667
+#: famework/settings/theme-options.php:1053
+msgid "Number of products on shop page"
+msgstr ""
+
+#: famework/settings/theme-options.php:672
+msgid "Use Lazy Load"
+msgstr ""
+
+#: famework/settings/theme-options.php:681
+msgid "Product grid style"
+msgstr ""
+
+#: famework/settings/theme-options.php:691
+msgid "Product attributes show in product item"
+msgstr ""
+
+#: famework/settings/theme-options.php:699
+msgid "Sidebar Position"
+msgstr ""
+
+#: famework/settings/theme-options.php:700
+msgid "Select sidebar position on shop, product archive page."
+msgstr ""
+
+#: famework/settings/theme-options.php:721
+msgid "Shop Default Layout"
+msgstr ""
+
+#: famework/settings/theme-options.php:722
+msgid "Select default layout for shop, product category archive."
+msgstr ""
+
+#: famework/settings/theme-options.php:731
+msgid "Items per row on Desktop( For grid mode )"
+msgstr ""
+
+#: famework/settings/theme-options.php:747
+msgid "Items per row on landscape tablet( For grid mode )"
+msgstr ""
+
+#: famework/settings/theme-options.php:763
+msgid "Items per row on portrait tablet( For grid mode )"
+msgstr ""
+
+#: famework/settings/theme-options.php:779
+#: famework/settings/theme-options.php:795
+msgid "Items per row on Mobile( For grid mode )"
+msgstr ""
+
+#: famework/settings/theme-options.php:814
+msgid "Single product"
+msgstr ""
+
+#: famework/settings/theme-options.php:815
+msgid "Single product settings"
+msgstr ""
+
+#: famework/settings/theme-options.php:821
+msgid "Single Product Sidebar Position"
+msgstr ""
+
+#: famework/settings/theme-options.php:822
+msgid "Select sidebar position on single product page."
+msgstr ""
+
+#: famework/settings/theme-options.php:842
+msgid "Product Image Zoom"
+msgstr ""
+
+#: famework/settings/theme-options.php:850
+msgid "Display product thumbnails images by carousel"
+msgstr ""
+
+#: famework/settings/theme-options.php:852
+msgid "Product thumbnails images carousel"
+msgstr ""
+
+#: famework/settings/theme-options.php:859
+msgid "Thumbnail items per row on Desktop"
+msgstr ""
+
+#: famework/settings/theme-options.php:875
+msgid "Thumbnail items per row on landscape tablet"
+msgstr ""
+
+#: famework/settings/theme-options.php:891
+msgid "Thumbnail items per row on portrait tablet"
+msgstr ""
+
+#: famework/settings/theme-options.php:907
+#: famework/settings/theme-options.php:923
+msgid "Thumbnail items per row on Mobile"
+msgstr ""
+
+#: famework/settings/theme-options.php:943
+msgid "Cross sell"
+msgstr ""
+
+#: famework/settings/theme-options.php:944
+msgid "Cross sell settings"
+msgstr ""
+
+#: famework/settings/theme-options.php:948
+#: famework/settings/theme-options.php:952
+msgid "Cross sell title"
+msgstr ""
+
+#: famework/settings/theme-options.php:956
+msgid "Cross sell items per row on Desktop"
+msgstr ""
+
+#: famework/settings/theme-options.php:971
+msgid "Cross sell items per row on landscape tablet"
+msgstr ""
+
+#: famework/settings/theme-options.php:986
+msgid "Cross sell items per row on portrait tablet"
+msgstr ""
+
+#: famework/settings/theme-options.php:1001
+#: famework/settings/theme-options.php:1016
+msgid "Cross sell items per row on Mobile"
+msgstr ""
+
+#: famework/settings/theme-options.php:1035
+msgid "Related products"
+msgstr ""
+
+#: famework/settings/theme-options.php:1036
+msgid "Related products settings"
+msgstr ""
+
+#: famework/settings/theme-options.php:1040
+#: famework/settings/theme-options.php:1044
+msgid "Related products title"
+msgstr ""
+
+#: famework/settings/theme-options.php:1048
+msgid "Limit number of products"
+msgstr ""
+
+#: famework/settings/theme-options.php:1057
+#: famework/settings/theme-options.php:1156
+msgid "Related products items per row on Desktop"
+msgstr ""
+
+#: famework/settings/theme-options.php:1072
+#: famework/settings/theme-options.php:1172
+msgid "Related products items per row on landscape tablet"
+msgstr ""
+
+#: famework/settings/theme-options.php:1087
+#: famework/settings/theme-options.php:1188
+msgid "Related product items per row on portrait tablet"
+msgstr ""
+
+#: famework/settings/theme-options.php:1102
+#: famework/settings/theme-options.php:1117
+#: famework/settings/theme-options.php:1204
+#: famework/settings/theme-options.php:1220
+msgid "Related products items per row on Mobile"
+msgstr ""
+
+#: famework/settings/theme-options.php:1135
+msgid "Recommended products"
+msgstr ""
+
+#: famework/settings/theme-options.php:1136
+msgid "Display Featured Products"
+msgstr ""
+
+#: famework/settings/theme-options.php:1140
+msgid "Enable Recommended products"
+msgstr ""
+
+#: famework/settings/theme-options.php:1148
+msgid "Recommended products title"
+msgstr ""
+
+#: famework/settings/theme-options.php:1152
+msgid "Recommended Products title"
+msgstr ""
+
+#: famework/settings/theme-options.php:1240
+msgid "Up sells products"
+msgstr ""
+
+#: famework/settings/theme-options.php:1241
+msgid "Up sells products settings"
+msgstr ""
+
+#: famework/settings/theme-options.php:1245
+msgid "Up sells title"
+msgstr ""
+
+#: famework/settings/theme-options.php:1249
+msgid "Up sells products title"
+msgstr ""
+
+#: famework/settings/theme-options.php:1253
+msgid "Up sells items per row on Desktop"
+msgstr ""
+
+#: famework/settings/theme-options.php:1268
+msgid "Up sells items per row on landscape tablet"
+msgstr ""
+
+#: famework/settings/theme-options.php:1283
+msgid "Up sells items per row on portrait tablet"
+msgstr ""
+
+#: famework/settings/theme-options.php:1298
+#: famework/settings/theme-options.php:1313
+msgid "Up sells items per row on Mobile"
+msgstr ""
+
+#: famework/settings/theme-options.php:1333
+msgid "Social Settings"
+msgstr ""
+
+#: famework/settings/theme-options.php:1339
+msgid "Twitter"
+msgstr ""
+
+#: famework/settings/theme-options.php:1346
+msgid "Facebook"
+msgstr ""
+
+#: famework/settings/theme-options.php:1353
+msgid "Google Plus"
+msgstr ""
+
+#: famework/settings/theme-options.php:1360
+msgid "Dribbble"
+msgstr ""
+
+#: famework/settings/theme-options.php:1367
+msgid "Behance"
+msgstr ""
+
+#: famework/settings/theme-options.php:1374
+msgid "Tumblr"
+msgstr ""
+
+#: famework/settings/theme-options.php:1381
+msgid "Instagram"
+msgstr ""
+
+#: famework/settings/theme-options.php:1388
+msgid "Pinterest"
+msgstr ""
+
+#: famework/settings/theme-options.php:1395
+msgid "Youtube"
+msgstr ""
+
+#: famework/settings/theme-options.php:1402
+msgid "Vimeo"
+msgstr ""
+
+#: famework/settings/theme-options.php:1409
+msgid "Linkedin"
+msgstr ""
+
+#: famework/settings/theme-options.php:1416
+msgid "RSS"
+msgstr ""
+
+#: famework/settings/theme-options.php:1425
+msgid "Typography Options"
+msgstr ""
+
+#: famework/settings/theme-options.php:1430
+msgid "Body Font Setting"
+msgstr ""
+
+#: famework/settings/theme-options.php:1431
+msgid "Specify the body font properties."
+msgstr ""
+
+#: famework/settings/theme-options.php:1438
+msgid "Heading 1(H1) Font Setting"
+msgstr ""
+
+#: famework/settings/theme-options.php:1439
+msgid "Specify the H1 tag font properties."
+msgstr ""
+
+#: famework/settings/theme-options.php:1447
+msgid "Heading 2(H2) Font Setting"
+msgstr ""
+
+#: famework/settings/theme-options.php:1448
+msgid "Specify the H2 tag font properties."
+msgstr ""
+
+#: famework/settings/theme-options.php:1456
+msgid "Heading 3(H3) Font Setting"
+msgstr ""
+
+#: famework/settings/theme-options.php:1457
+msgid "Specify the H3 tag font properties."
+msgstr ""
+
+#: famework/settings/theme-options.php:1465
+msgid "Heading 4(H4) Font Setting"
+msgstr ""
+
+#: famework/settings/theme-options.php:1466
+msgid "Specify the H4 tag font properties."
+msgstr ""
+
+#: famework/settings/theme-options.php:1474
+msgid "Heading 5(H5) Font Setting"
+msgstr ""
+
+#: famework/settings/theme-options.php:1475
+msgid "Specify the H5 tag font properties."
+msgstr ""
+
+#: famework/settings/theme-options.php:1483
+msgid "Heading 6(H6) Font Setting"
+msgstr ""
+
+#: famework/settings/theme-options.php:1484
+msgid "Specify the H6 tag font properties."
+msgstr ""
+
+#: famework/settings/theme-options.php:1497
+msgid "Theme Information 1"
+msgstr ""
+
+#: famework/settings/theme-options.php:1498
+#: famework/settings/theme-options.php:1504
+#: famework/settings/theme-options.php:1508
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: famework/settings/theme-options.php:1503
+msgid "Theme Information 2"
+msgstr ""
+
+#: famework/settings/theme-options.php:1527
+#: famework/settings/theme-options.php:1528
+msgid "Theme Options"
+msgstr ""
+
+#: famework/settings/theme-options.php:1553
+msgid "ReaApple WordPress Team"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:21
+#: famework/widgets/widget-woo-layered-nav.php:21
+msgid ""
+"Shows a custom attribute in a widget which lets you narrow down the list of "
+"products when viewing product categories."
+msgstr ""
+
+#: famework/widgets/layered_nav.php:23
+#: famework/widgets/widget-woo-layered-nav.php:23
+msgid "Digitalworld: WooCommerce Layered Nav"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:48 famework/widgets/layered_nav.php:132
+#: famework/widgets/widget-woo-layered-nav.php:48
+#: famework/widgets/widget-woo-layered-nav.php:132
+msgid "Filter by"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:70
+#: famework/widgets/widget-instagram.php:98
+#: famework/widgets/widget-latest-posts.php:1
+#: famework/widgets/widget-newsletter.php:62
+#: famework/widgets/widget-testimonial.php:104
+#: famework/widgets/widget-woo-layered-nav.php:70
+msgid "Title:"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:74
+#: famework/widgets/widget-woo-layered-nav.php:74
+msgid "Product attribute:"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:82
+#: famework/widgets/widget-woo-layered-nav.php:82
+msgid "Display type:"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:85 famework/widgets/layered_nav.php:147
+#: famework/widgets/widget-woo-layered-nav.php:85
+#: famework/widgets/widget-woo-layered-nav.php:147
+msgid "Dropdown"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:86
+#: famework/widgets/widget-woo-layered-nav.php:86
+msgid "Inline"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:91 famework/widgets/layered_nav.php:153
+#: famework/widgets/widget-woo-layered-nav.php:91
+#: famework/widgets/widget-woo-layered-nav.php:153
+msgid "Query type"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:93 famework/widgets/layered_nav.php:155
+#: famework/widgets/widget-woo-layered-nav.php:93
+#: famework/widgets/widget-woo-layered-nav.php:155
+msgid "AND"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:94 famework/widgets/layered_nav.php:156
+#: famework/widgets/widget-woo-layered-nav.php:94
+#: famework/widgets/widget-woo-layered-nav.php:156
+msgid "OR"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:138
+#: famework/widgets/widget-woo-layered-nav.php:138
+msgid "Attribute"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:144
+#: famework/widgets/widget-woo-layered-nav.php:144
+msgid "Display type"
+msgstr ""
+
+#: famework/widgets/layered_nav.php:265
+#: famework/widgets/widget-woo-layered-nav.php:265
+#, php-format
+msgid "Any %s"
+msgstr ""
+
+#: famework/widgets/product-categories.php:37
+#: famework/widgets/widget-woo-product-categories.php:37
+msgid "A list or dropdown of product categories."
+msgstr ""
+
+#: famework/widgets/product-categories.php:39
+#: famework/widgets/widget-woo-product-categories.php:39
+msgid "Digitalworld : WooCommerce Product Categories"
+msgstr ""
+
+#: famework/widgets/product-categories.php:43
+#: famework/widgets/widget-woo-product-categories.php:43
+msgid "Product Categories"
+msgstr ""
+
+#: famework/widgets/product-categories.php:51
+#: famework/widgets/widget-woo-product-categories.php:51
+msgid "Category Order"
+msgstr ""
+
+#: famework/widgets/product-categories.php:58
+#: famework/widgets/widget-woo-product-categories.php:58
+msgid "Show as dropdown"
+msgstr ""
+
+#: famework/widgets/product-categories.php:63
+#: famework/widgets/widget-woo-product-categories.php:63
+msgid "Show product counts"
+msgstr ""
+
+#: famework/widgets/product-categories.php:68
+#: famework/widgets/widget-woo-product-categories.php:68
+msgid "Show hierarchy"
+msgstr ""
+
+#: famework/widgets/product-categories.php:73
+#: famework/widgets/widget-woo-product-categories.php:73
+msgid "Only show children of the current category"
+msgstr ""
+
+#: famework/widgets/product-categories.php:78
+#: famework/widgets/widget-woo-product-categories.php:78
+msgid "Hide empty categories"
+msgstr ""
+
+#: famework/widgets/product-categories.php:236
+#: famework/widgets/widget-woo-product-categories.php:236
+msgid "No product categories exist."
+msgstr ""
+
+#: famework/widgets/widget-instagram.php:6
+msgid "Show off your favorite Instagram photos"
+msgstr ""
+
+#: famework/widgets/widget-instagram.php:45
+msgid "User ID and access token do not match. Please check again."
+msgstr ""
+
+#: famework/widgets/widget-instagram.php:103
+#, php-format
+msgid ""
+"Instagram user ID (<a href=\"%1$s\" target=\"_blank\">Lookup your User ID</"
+"a>)"
+msgstr ""
+
+#: famework/widgets/widget-instagram.php:108
+#, php-format
+msgid ""
+"Access token (<a href=\"%1$s\" target=\"_blank\">Generate access token</a>)"
+msgstr ""
+
+#: famework/widgets/widget-instagram.php:113
+msgid "Number of Photos:"
+msgstr ""
+
+#: famework/widgets/widget-instagram.php:118
+msgid "Columns (1-5):"
+msgstr ""
+
+#: famework/widgets/widget-latest-posts.php:1
+msgid ""
+"A widget that displays your latest posts from all categories or a certain"
+msgstr ""
+
+#: famework/widgets/widget-latest-posts.php:1
+msgid "Digitalworld: Latest Posts"
+msgstr ""
+
+#: famework/widgets/widget-latest-posts.php:1
+msgid "Latest Posts"
+msgstr ""
+
+#: famework/widgets/widget-latest-posts.php:1
+msgid "All categories"
+msgstr ""
+
+#: famework/widgets/widget-latest-posts.php:1
+msgid "Number of posts to show:"
+msgstr ""
+
+#: famework/widgets/widget-newsletter.php:16
+msgid "Newsletter Box."
+msgstr ""
+
+#: famework/widgets/widget-newsletter.php:38
+msgid "Enter your email..."
+msgstr ""
+
+#: famework/widgets/widget-newsletter.php:39
+msgid "Sign Up"
+msgstr ""
+
+#: famework/widgets/widget-newsletter.php:66
+msgid "Sub Title:"
+msgstr ""
+
+#: famework/widgets/widget-products.php:23
+msgid "Display a list of your products on your site."
+msgstr ""
+
+#: famework/widgets/widget-products.php:38
+msgid "Number of products to show"
+msgstr ""
+
+#: famework/widgets/widget-products.php:46
+msgid "Per page of products to show"
+msgstr ""
+
+#: famework/widgets/widget-products.php:51
+msgid "Show"
+msgstr ""
+
+#: famework/widgets/widget-products.php:53
+msgid "All Products"
+msgstr ""
+
+#: famework/widgets/widget-products.php:55
+msgid "On-sale Products"
+msgstr ""
+
+#: famework/widgets/widget-products.php:64 woocommerce/cart/cart.php:87
+#: woocommerce/single-product/add-to-cart/grouped.php:35
+msgid "Price"
+msgstr ""
+
+#: famework/widgets/widget-products.php:66
+msgid "Sales"
+msgstr ""
+
+#: famework/widgets/widget-products.php:72
+msgctxt "Sorting order"
+msgid "Order"
+msgstr ""
+
+#: famework/widgets/widget-products.php:81
+msgid "Hide free products"
+msgstr ""
+
+#: famework/widgets/widget-products.php:86
+msgid "Show hidden products"
+msgstr ""
+
+#: famework/widgets/widget-testimonial.php:16
+msgid "Testimonial Carousel on sidebar."
+msgstr ""
+
+#: famework/widgets/widget-testimonial.php:17
+msgid "Digitalworld: Testimonial"
+msgstr ""
+
+#: templates/blogs/blog-grid.php:41 templates/blogs/blog-list.php:1
+#: templates/blogs/blog-single.php:1
+msgid "Sticky"
+msgstr ""
+
+#: templates/blogs/blog-grid.php:44 templates/blogs/blog-list.php:1
+#: templates/blogs/blog-single.php:1
+msgid "Posted by:"
+msgstr ""
+
+#: templates/blogs/blog-grid.php:50 templates/blogs/blog-list.php:1
+msgid "..."
+msgstr ""
+
+#: templates/blogs/blog-grid.php:51 templates/blogs/blog-list.php:1
+msgid "Read more"
+msgstr ""
+
+#: templates/blogs/blog-share.php:2
+msgid "Share:"
+msgstr ""
+
+#: templates/blogs/blog-share.php:3
+#, php-format
+msgid "Share \"%s\" on Facebook"
+msgstr ""
+
+#: templates/blogs/blog-share.php:6
+#, php-format
+msgid "Post status \"%s\" on Twitter"
+msgstr ""
+
+#: templates/blogs/blog-share.php:9
+#, php-format
+msgid "Share \"%s\" on Google Plus"
+msgstr ""
+
+#: templates/blogs/blog-share.php:12
+#, php-format
+msgid "Pin \"%s\" on Pinterest"
+msgstr ""
+
+#: templates/blogs/blog-share.php:15
+#, php-format
+msgid "Share \"%s\" on LinkedIn"
+msgstr ""
+
+#: templates/blogs/blog-single.php:1
+msgid "Tags:"
+msgstr ""
+
+#: templates/headers/header-style-01.php:51
+#: templates/headers/header-style-02.php:65
+#: templates/headers/header-style-03.php:71
+#: templates/headers/header-style-04.php:58
+#: templates/headers/header-style-05.php:51
+msgid "Serach"
+msgstr ""
+
+#: templates/headers/header-style-01.php:122
+#: templates/headers/header-style-02.php:147
+#: templates/headers/header-style-04.php:144
+#: templates/headers/header-style-05.php:71
+msgid "Main Menu"
+msgstr ""
+
+#: templates/headers/header-style-02.php:77
+#: templates/headers/header-style-03.php:83
+#: templates/headers/header-style-04.php:70
+msgid "Wishlist"
+msgstr ""
+
+#: templates/headers/header-style-03.php:86
+#: templates/headers/header-style-04.php:73
+msgid "Compare"
+msgstr ""
+
+#: template_parts/header-block-settings.php:11
+msgid "Select Languange"
+msgstr ""
+
+#: template_parts/header-block-settings.php:28
+msgid "Select Currency"
+msgstr ""
+
+#: template_parts/header-block-user.php:7
+msgid "/Register"
+msgstr ""
+
+#: template_parts/header-userlink.php:7
+msgid " or Register"
+msgstr ""
+
+#: template_parts/header-userlink.php:23
+msgid "Hi, "
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart-totals.php:34
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:92 woocommerce/cart/cart-totals.php:93
+#: woocommerce/cart/cart.php:110
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:101
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:50 woocommerce/cart/mini-cart.php:41
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:69
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:82
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:93
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Use Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:8
+msgid "Item(s)"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:16
+msgid "You have "
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:16
+msgid " item(s) in your cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:54
+msgid "Subtotal:"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:59
+msgid "Check out"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:61
+msgid "View cart"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:27
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/new-flash.php:1
+msgid "New"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:41
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-attributes.php:38
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:45
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:47
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/grouped.php:34
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""

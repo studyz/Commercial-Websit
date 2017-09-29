@@ -1,0 +1,1 @@
+</div><?php digitalworld_get_footer();?><a href="#" class="backtotop"><i class="fa fa-angle-up" aria-hidden="true"></i></a><?php wp_footer(); ?></body>	</html>

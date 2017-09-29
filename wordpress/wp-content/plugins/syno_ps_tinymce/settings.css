@@ -1,0 +1,45 @@
+body {
+	overflow: hidden;
+}
+
+.img-setting-panel .x-panel-footer.x-panel-footer-noborder.x-panel-btns {
+	width: 500px !important;
+	height: 43px !important;
+	background-image: none;
+	border-top: 1px solid #D2DCE6;
+	padding: 0px;
+}
+
+.img-setting-panel .img-setting-host-field > .x-form-element {
+	padding-left: 180px !important;
+}
+
+.img-setting-panel .img-setting-protocol-field > .x-form-element {
+	padding-left: 180px !important;
+}
+
+.img-setting-panel .img-setting-host-field {
+	font-family: verdana, tahoma, arial, helvetica, sans-serif;
+}
+.img-setting-panel .img-setting-host-field {
+	margin-bottom: 16px;
+}
+
+.img-setting-panel .img-setting-protocol-field {
+	font-family: verdana, tahoma, arial, helvetica, sans-serif;
+}
+
+.img-setting-panel .img-setting-protocol-field .x-form-item-label{
+	font-size: 12px;
+	color: #505A64;
+	line-height: 28px;
+	padding: 0px;
+}
+
+.img-setting-panel .x-panel-footer .x-toolbar-right-ct {
+	padding-right: 7px;
+}
+
+.img-setting-panel .x-form-text {
+	background-image: none;
+}

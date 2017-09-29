@@ -1,0 +1,27 @@
+#: synology_add wp_ifps_name
+msgid "Insert image from Photo Station"
+msgstr "Wstaw obraz z Photo Station"
+
+#: synology_add wp_ifps_need_higher_version
+msgid "<strong>Insert From Photo Station: </strong>This plug-in requires version %s or later."
+msgstr "<strong>Insert From Photo Station: </strong>Ten dodatek wymaga wersji %s lub nowszej."
+
+#: synology_add wp_ifps_need_photostation
+msgid "<strong>Insert From Photo Station: </strong>This plug-in must be used with Photo Station."
+msgstr "<strong>Insert From Photo Station: </strong>Tego dodatku należy używać z aplikacją Photo Station."
+
+#: synology_add wp_ls_desc
+msgid "Select display language"
+msgstr "Wybierz język wyświetlania"
+
+#: synology_add wp_ls_name
+msgid "Language"
+msgstr "Język"
+
+#: synology_add wp_ls_need_higher_version
+msgid "<strong>Language Selector: </strong>This plugin requires version %s or later."
+msgstr "<strong>Language Selector: </strong>Ten dodatek wymaga wersji %s lub nowszej."
+
+#: synology_add wp_str_services_disabled
+msgid "The service is disabled now."
+msgstr "Usługa jest teraz wyłączona."

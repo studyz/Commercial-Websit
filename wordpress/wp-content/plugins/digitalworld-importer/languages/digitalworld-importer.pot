@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-01-23 16:48+0700\n"
+"PO-Revision-Date: 2017-01-23 16:48+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: css\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: images\n"
+
+#: inc/parsers.php:42 inc/parsers.php:72 inc/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/parsers.php:84 inc/parsers.php:89 inc/parsers.php:279
+#: inc/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: inc/wordpress-importer.php:136 inc/wordpress-importer.php:145
+#: inc/wordpress-importer.php:196 inc/wordpress-importer.php:200
+#: inc/wordpress-importer.php:209
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/wordpress-importer.php:137
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/wordpress-importer.php:180
+msgid "All done."
+msgstr ""
+
+#: inc/wordpress-importer.php:180
+msgid "Have fun!"
+msgstr ""
+
+#: inc/wordpress-importer.php:181
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/wordpress-importer.php:201
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: inc/wordpress-importer.php:217
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: inc/wordpress-importer.php:242
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: inc/wordpress-importer.php:268
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/wordpress-importer.php:269
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: inc/wordpress-importer.php:271
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/wordpress-importer.php:281
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/wordpress-importer.php:284
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/wordpress-importer.php:288
+msgid "Submit"
+msgstr ""
+
+#: inc/wordpress-importer.php:301
+msgid "Import author:"
+msgstr ""
+
+#: inc/wordpress-importer.php:312
+msgid "or create new user with login name:"
+msgstr ""
+
+#: inc/wordpress-importer.php:315
+msgid "as a new user:"
+msgstr ""
+
+#: inc/wordpress-importer.php:323
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/wordpress-importer.php:325
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/wordpress-importer.php:326
+msgid "- Select -"
+msgstr ""
+
+#: inc/wordpress-importer.php:376
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: inc/wordpress-importer.php:427
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:514 inc/wordpress-importer.php:655
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:540
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:562
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: inc/wordpress-importer.php:621
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/wordpress-importer.php:787
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/wordpress-importer.php:795
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:912
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/wordpress-importer.php:926
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/wordpress-importer.php:970
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/wordpress-importer.php:976
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: inc/wordpress-importer.php:983
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/wordpress-importer.php:988
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/wordpress-importer.php:994
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:1093
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/wordpress-importer.php:1100
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/wordpress-importer.php:1115
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: inc/wordpress-importer.php:1116
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: inc/wordpress-importer.php:1191
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: trueshop-importer.php:31
+msgid "Primary Menu"
+msgstr ""
+
+#: trueshop-importer.php:32
+msgid "Top Bar Left Menu"
+msgstr ""
+
+#: trueshop-importer.php:33
+msgid "Top Bar Right Menu"
+msgstr ""
+
+#: trueshop-importer.php:34
+msgid "Top Bar Middle Menu"
+msgstr ""
+
+#: trueshop-importer.php:35
+msgid "Vertical Menu"
+msgstr ""
+
+#: trueshop-importer.php:41
+msgid "Demo 01"
+msgstr ""
+
+#: trueshop-importer.php:54
+msgid "Demo 02"
+msgstr ""
+
+#: trueshop-importer.php:67
+msgid "Demo 03"
+msgstr ""
+
+#: trueshop-importer.php:80
+msgid "Demo 04"
+msgstr ""
+
+#: trueshop-importer.php:93
+msgid "Demo 05"
+msgstr ""
+
+#: trueshop-importer.php:106
+msgid "Demo 06"
+msgstr ""
+
+#: trueshop-importer.php:119
+msgid "Demo 07"
+msgstr ""
+
+#: trueshop-importer.php:337
+msgid "Please, provide an attribute name and slug."
+msgstr ""
+
+#: trueshop-importer.php:343
+#, php-format
+msgid "Slug \"%s\" is already in use. Change it, please."
+msgstr ""
+
+#: trueshop-importer.php:376
+#, php-format
+msgid "Slug \"%s\" is too long (28 characters max). Shorten it, please."
+msgstr ""
+
+#: trueshop-importer.php:379
+#, php-format
+msgid ""
+"Slug \"%s\" is not allowed because it is a reserved term. Change it, please."
+msgstr ""
+
+#: trueshop-importer.php:503
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: trueshop-importer.php:525
+msgid "Site does not support widget"
+msgstr ""
+
+#: trueshop-importer.php:561
+msgid "Widget already exists"
+msgstr ""
+
+#: trueshop-importer.php:623
+msgid "Imported"
+msgstr ""
+
+#: trueshop-importer.php:626
+msgid "Imported to Inactive"
+msgstr ""
+
+#: trueshop-importer.php:633
+msgid "No Title"
+msgstr ""

@@ -1,0 +1,372 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-12 17:35+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/post-types.php:25
+msgid "Mega Builder"
+msgstr ""
+
+#: includes/post-types.php:26
+msgid "Mega menu item"
+msgstr ""
+
+#: includes/post-types.php:27
+msgid "Add new"
+msgstr ""
+
+#: includes/post-types.php:28
+msgid "Add new menu item"
+msgstr ""
+
+#: includes/post-types.php:29
+msgid "Edit menu item"
+msgstr ""
+
+#: includes/post-types.php:30
+msgid "New menu item"
+msgstr ""
+
+#: includes/post-types.php:31
+msgid "View menu item"
+msgstr ""
+
+#: includes/post-types.php:32
+msgid "Search menu items"
+msgstr ""
+
+#: includes/post-types.php:33
+msgid "No menu items found"
+msgstr ""
+
+#: includes/post-types.php:34
+msgid "No menu items found in trash"
+msgstr ""
+
+#: includes/post-types.php:35
+msgid "Parent menu item:"
+msgstr ""
+
+#: includes/post-types.php:36
+msgid "Menu Builder"
+msgstr ""
+
+#: includes/post-types.php:39
+msgid "Mega Menus."
+msgstr ""
+
+#: includes/post-types.php:60 includes/post-types.php:61
+msgid "Footers"
+msgstr ""
+
+#: includes/post-types.php:62 includes/post-types.php:95
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types.php:63
+msgid "Add new footer"
+msgstr ""
+
+#: includes/post-types.php:64
+msgid "Edit footer"
+msgstr ""
+
+#: includes/post-types.php:65
+msgid "New footer"
+msgstr ""
+
+#: includes/post-types.php:66
+msgid "View footer"
+msgstr ""
+
+#: includes/post-types.php:67
+msgid "Search template footer"
+msgstr ""
+
+#: includes/post-types.php:68
+msgid "No template items found"
+msgstr ""
+
+#: includes/post-types.php:69
+msgid "No template items found in trash"
+msgstr ""
+
+#: includes/post-types.php:70
+msgid "Parent template item:"
+msgstr ""
+
+#: includes/post-types.php:71
+msgid "Footer Builder"
+msgstr ""
+
+#: includes/post-types.php:74
+msgid "To Build Template Footer."
+msgstr ""
+
+#: includes/post-types.php:93 includes/post-types.php:94
+msgid "Testimonial"
+msgstr ""
+
+#: includes/post-types.php:96 includes/post-types.php:105
+msgid "Testimonials"
+msgstr ""
+
+#: includes/post-types.php:97
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/post-types.php:98
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/post-types.php:99
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/post-types.php:100
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/post-types.php:101
+msgid "Search Testimonial"
+msgstr ""
+
+#: includes/post-types.php:102
+msgid "No Testimonial found"
+msgstr ""
+
+#: includes/post-types.php:103
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: includes/post-types.php:104
+msgid "Parent Testimonial"
+msgstr ""
+
+#: includes/classes/wellcome.php:31
+msgid "Sample Data"
+msgstr ""
+
+#: includes/classes/wellcome.php:32
+msgid "Plugins"
+msgstr ""
+
+#: includes/classes/wellcome.php:33
+msgid "Support"
+msgstr ""
+
+#: includes/classes/wellcome.php:39 includes/classes/wellcome.php:63
+msgid "Permission denied"
+msgstr ""
+
+#: includes/classes/wellcome.php:112
+msgid "Welcome to Digitalworld!"
+msgstr ""
+
+#: includes/classes/wellcome.php:113
+msgid "We've assembled some links to get you started"
+msgstr ""
+
+#: includes/classes/wellcome.php:116
+msgid "Get Started"
+msgstr ""
+
+#: includes/classes/wellcome.php:117
+msgid "Wiew All Demos"
+msgstr ""
+
+#: includes/classes/wellcome.php:120
+msgid "Next Steps"
+msgstr ""
+
+#: includes/classes/wellcome.php:122 includes/classes/wellcome.php:261
+msgid "Read Documentation"
+msgstr ""
+
+#: includes/classes/wellcome.php:123 includes/classes/wellcome.php:275
+msgid "Request Support"
+msgstr ""
+
+#: includes/classes/wellcome.php:124
+msgid "View Changelog Details"
+msgstr ""
+
+#: includes/classes/wellcome.php:128
+msgid "Keep in Touch"
+msgstr ""
+
+#: includes/classes/wellcome.php:130
+msgid "Newsletter"
+msgstr ""
+
+#: includes/classes/wellcome.php:131
+msgid "Twitter"
+msgstr ""
+
+#: includes/classes/wellcome.php:132
+msgid "Facebook"
+msgstr ""
+
+#: includes/classes/wellcome.php:204
+msgid "Install"
+msgstr ""
+
+#: includes/classes/wellcome.php:219
+msgid "Update"
+msgstr ""
+
+#: includes/classes/wellcome.php:232
+msgid "Activate"
+msgstr ""
+
+#: includes/classes/wellcome.php:244
+msgid "Deactivate"
+msgstr ""
+
+#: includes/classes/wellcome.php:259
+msgid "Documentation"
+msgstr ""
+
+#: includes/classes/wellcome.php:260
+msgid ""
+"Here is our user guide for Digitalworld, including basic setup steps, as "
+"well as Digitalworld features and elements for your reference."
+msgstr ""
+
+#: includes/classes/wellcome.php:266
+msgid "Video Tutorials"
+msgstr ""
+
+#: includes/classes/wellcome.php:267
+msgid ""
+"Video tutorials is the great way to show you how to setup Digitalworld "
+"theme, make sure that the feature works as it's designed."
+msgstr ""
+
+#: includes/classes/wellcome.php:268
+msgid "See Video"
+msgstr ""
+
+#: includes/classes/wellcome.php:273
+msgid "Forum"
+msgstr ""
+
+#: includes/classes/wellcome.php:274
+msgid ""
+"Can't find the solution on documentation? We're here to help, even on "
+"weekend. Just click here to start 1on1 chatting with us!"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:29
+msgid "MailChimp Settings"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:30
+msgid "MailChimp"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:44
+msgid "Mail Chimp Settings"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:70
+msgid "Settings"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:77
+msgid "Mail Chimp API Key"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:88
+msgid "Email Lists"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:96
+msgid "Success message"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:140
+msgid ""
+"Enter your mail Chimp API key to enable a newsletter signup option with the "
+"registration form."
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:142
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"__blank\">Click here to get your Mailchimp API key</"
+"a>"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp.php:28
+#, php-format
+msgid "Please enter Mail Chimp API Key in <a href=\"%s\">here</a>"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp.php:56
+msgid "Your email added..."
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp.php:69
+msgid "Failed"
+msgstr ""
+
+#: includes/shortcodes/blogs.php:97
+msgid "..."
+msgstr ""
+
+#: includes/shortcodes/blogs.php:102
+msgid "0 comment"
+msgstr ""
+
+#: includes/shortcodes/blogs.php:103
+msgid "1 comment"
+msgstr ""
+
+#: includes/shortcodes/blogs.php:104
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: includes/shortcodes/blogs.php:115
+msgid "No Post !"
+msgstr ""
+
+#: includes/shortcodes/categories.php:109
+#: includes/shortcodes/categories.php:141
+msgid "View More"
+msgstr ""
+
+#: includes/shortcodes/instagram.php:51
+msgid "No user ID specified."
+msgstr ""
+
+#: includes/shortcodes/instagram.php:61
+msgid "User ID and access token do not match. Please check again."
+msgstr ""
+
+#: includes/shortcodes/newsletter.php:60
+msgid "Subscribe"
+msgstr ""
+
+#: includes/shortcodes/newsletter.php:75
+msgid "Sign in"
+msgstr ""
+
+#: includes/shortcodes/products.php:121
+msgid "No Product"
+msgstr ""

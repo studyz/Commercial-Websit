@@ -1,0 +1,95 @@
+#syno-photostation-window-head .mce-close:before {
+	content: '' !important;
+}
+
+#syno-photostation-window-head .mce-close {
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	top: 8px;
+	right: 12px;
+	z-index: 2000;
+	cursor: pointer;
+	background-image: url('images/icon_close.png');
+	background-size: 24px;
+	padding: 0px;
+}
+
+#syno-photostation-window-head .mce-close:hover {
+	background-position: 0 -24px;
+}
+
+#syno-photostation-window-head .mce-close:active {
+	background-position: 0 -48px;
+}
+
+#syno-photostation-window .mce-syno-photostation-setting-btn {
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	top: 8px;
+	right: 48px;
+	z-index: 2000;
+	cursor: pointer;
+	background-image: url('images/icon_configurations.png');
+	background-size: 24px;
+}
+
+#syno-photostation-window .mce-syno-photostation-setting-btn:hover {
+	background-position: 0 -24px;
+}
+
+#syno-photostation-window .mce-syno-photostation-setting-btn:active {
+	background-position: 0 -48px;
+}
+
+#syno-photostation-window-title {
+	font-size: 18px;
+	font-family: verdana;
+	font-weight: normal;
+	height: 40px;
+	color: #505A64;
+	background: #F0F2F4;
+	border-bottom: 1px solid #D2DCE6;
+	line-height: 40px;
+}
+
+#syno-photostation-configuration-window-title {
+	font-size: 18px;
+	font-family: verdana;
+	font-weight: normal;
+	height: 40px;
+	color: #505A64;
+	background: #F0F2F4;
+	border-bottom: 1px solid #D2DCE6;
+	line-height: 40px;
+}
+
+#syno-photostation-configuration-window-head {
+	border-bottom-width: 0px;
+}
+
+#syno-photostation-configuration-window-head .mce-close:before {
+	content: '' !important;
+}
+
+#syno-photostation-configuration-window-head .mce-close {
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	top: 8px;
+	right: 12px;
+	z-index: 2000;
+	cursor: pointer;
+	background-image: url('images/icon_close.png');
+	background-size: 24px;
+	padding: 0px;
+}
+
+#syno-photostation-configuration-window-head .mce-close:hover {
+	background-position: 0 -24px;
+}
+
+#syno-photostation-configuration-window-head .mce-close:active {
+	background-position: 0 -48px;
+}

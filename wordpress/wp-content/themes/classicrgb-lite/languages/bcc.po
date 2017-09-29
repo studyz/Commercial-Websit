@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ClassicRGB lite v1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-17 16:25+0200\n"
+"PO-Revision-Date: 2017-08-13 00:16+0400\n"
+"Last-Translator: ClassicRGB lite <info@rgb-classic.com>\n"
+"Language-Team: ClassicRGB lite <info@rgb-classic.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;"
+"_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: bcc\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "تاکدیم دست نہ کپت"
+
+# @ _s
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "دانک دات نکنئے"
+
+#: functions.php:9
+msgid "Primary"
+msgstr "Primary"
+
+#: functions.php:39
+msgid "Right"
+msgstr "Right"
+
+#: functions.php:57
+msgid "Footer-1"
+msgstr "Footer-1"
+
+#: functions.php:66
+msgid "Footer-2"
+msgstr "Footer-2"
+
+#: functions.php:75
+msgid "Footer-3"
+msgstr "Footer-3"
+
+#: functions.php:84
+msgid "Footer-4"
+msgstr "Footer-4"
+
+#: footer.php:46
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "گوں‌ھمراھی ءَ %s"
+
+#: footer.php:52
+msgid "Theme: %1$s"
+msgstr " %1$s"
+
+#: header.php:45
+msgid "View your shopping cart"
+msgstr " "
+
+#: header.php:45
+msgid "Cart:"
+msgstr " "
+
+#: inc/template-tags.php:19
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "چاپ %s"
+
+#: inc/template-tags.php:24
+msgctxt "post author"
+msgid "by %s"
+msgstr "نبشتہ کار: %s"
+
+#: inc/template-tags.php:41 inc/template-tags.php:47
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:43
+msgid "Posted in %1$s"
+msgstr " %1$s"
+
+#: inc/template-tags.php:49
+msgid "Tagged %1$s"
+msgstr "چٹ %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:56
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "دانک<span class=\"screen-reader-text\"> ءِ %s</span>"
+
+#: inc/template-tags.php:63 template-parts/content-page.php:22
+msgid "Edit %s"
+msgstr "رِدکاری %s"
+
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "شوھاز ءِ‌آسر: %s"
+
+#: template-parts/content-none.php:3
+msgid "Nothing Found"
+msgstr "دست نہ کپت"
+
+#: template-parts/content-none.php:10
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "وتی اولی نبشتانک ءَ‌شنگ کنگ لوٹے؟ <a href=\"%1$s\">چہ اِدا بندات بکن</a>."
+
+#: template-parts/content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "بے بکش، شمے داتگیں‌اصلاح‌شوھاز کنگ نہ بیت، دزبندی اِنت کہ دگہ لبزءِ بدے"
+
+#: template-parts/content-none.php:20
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "انچو سماہ بیت کہ ھما چیزءَ‌تؤ شوھاز کنگ ئے اِدا نہ اِنت. بیت کنت پٹءُ پول شُمے کمک بیکنت"
+
+#: template-parts/content-page.php:11 template-parts/content.php:26
+msgid "Pages:"
+msgstr "تاکدیم:"
+
+#: template-parts/content.php:21
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "دیم ترا بوان %s <span class=\"meta-nav\">&rarr;</span>"

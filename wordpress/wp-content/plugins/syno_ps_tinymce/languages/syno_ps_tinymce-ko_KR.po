@@ -1,0 +1,27 @@
+#: synology_add wp_ifps_name
+msgid "Insert image from Photo Station"
+msgstr "Photo Station에서 이미지 삽입"
+
+#: synology_add wp_ifps_need_higher_version
+msgid "<strong>Insert From Photo Station: </strong>This plug-in requires version %s or later."
+msgstr "<strong>Insert From Photo Station: </strong>이 플러그인에는 버전 %s 이상이 필요합니다."
+
+#: synology_add wp_ifps_need_photostation
+msgid "<strong>Insert From Photo Station: </strong>This plug-in must be used with Photo Station."
+msgstr "<strong>Insert From Photo Station: </strong>이 플러그인은 Photo Station에서 사용해야 합니다."
+
+#: synology_add wp_ls_desc
+msgid "Select display language"
+msgstr "표시 언어 선택"
+
+#: synology_add wp_ls_name
+msgid "Language"
+msgstr "언어"
+
+#: synology_add wp_ls_need_higher_version
+msgid "<strong>Language Selector: </strong>This plugin requires version %s or later."
+msgstr "<strong>Language Selector: </strong>이 플러그인에는 버전 %s 이상이 필요합니다."
+
+#: synology_add wp_str_services_disabled
+msgid "The service is disabled now."
+msgstr "이 서비스는 지금 사용할 수 없습니다."

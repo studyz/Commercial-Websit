@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ClassicRGB lite v1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-17 16:25+0200\n"
+"PO-Revision-Date: 2017-08-13 00:17+0400\n"
+"Last-Translator: ClassicRGB lite <info@rgb-classic.com>\n"
+"Language-Team: ClassicRGB lite <info@rgb-classic.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ps\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوهو! هغه پاڼه ونه &rsquo;موندل شوه."
+
+# @ _s
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "څرګندونې تړلي دي."
+
+#: functions.php:9
+msgid "Primary"
+msgstr "Primary"
+
+#: functions.php:39
+msgid "Right"
+msgstr "Right"
+
+#: functions.php:57
+msgid "Footer-1"
+msgstr "Footer-1"
+
+#: functions.php:66
+msgid "Footer-2"
+msgstr "Footer-2"
+
+#: functions.php:75
+msgid "Footer-3"
+msgstr "Footer-3"
+
+#: functions.php:84
+msgid "Footer-4"
+msgstr "Footer-4"
+
+#: footer.php:46
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "ويبپاڼه د %s په مرسته په ویاړ سره ځواکمنه شوې"
+
+#: footer.php:52
+msgid "Theme: %1$s"
+msgstr "%1$s"
+
+#: header.php:45
+msgid "View your shopping cart"
+msgstr " "
+
+#: header.php:45
+msgid "Cart:"
+msgstr " "
+
+#: inc/template-tags.php:19
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "خپور شوی په %s"
+
+#: inc/template-tags.php:24
+msgctxt "post author"
+msgid "by %s"
+msgstr "لیکوال %s"
+
+#: inc/template-tags.php:41 inc/template-tags.php:47
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:43
+msgid "Posted in %1$s"
+msgstr " %1$s"
+
+#: inc/template-tags.php:49
+msgid "Tagged %1$s"
+msgstr "ټګونه %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:56
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "څرگندونه پرېږدی<span class=\"screen-reader-text\"> پر %s</span>"
+
+#: inc/template-tags.php:63 template-parts/content-page.php:22
+msgid "Edit %s"
+msgstr "سمون %s"
+
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "لټون پایلې په اړه د: %s"
+
+#: template-parts/content-none.php:3
+msgid "Nothing Found"
+msgstr "هيڅ و نه موندل شول"
+
+#: template-parts/content-none.php:10
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "د خپلې لومړی ليکنې خپرولو لپاره چمتو یاست ؟ <a href=\"%1$s\">پیل له دې ځای څخه وکړئ</a>."
+
+#: template-parts/content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "وبخښئ، ستاسو د لټون اړوند څه و نه موندل شول. د مهربانئ له مخې د بدلو آرويىونو کوښښ وکړئ."
+
+#: template-parts/content-none.php:20
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "داسې ښکاري چې په دې ځای کې هيڅ و نه موندل شول. ښایی د لټون و کاروئ؟"
+
+#: template-parts/content-page.php:11 template-parts/content.php:26
+msgid "Pages:"
+msgstr "پاڼې:"
+
+#: template-parts/content.php:21
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "لوستلو ته دوام ورکړئ %s <span class=\"meta-nav\">&rarr;</span>"
