@@ -2,9 +2,15 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-### Project Proposal ###
-* E-commerce Theme
-* Choice of Web Server
-* Choice of CMS
-* Archictecture of E-commerce Web Server (Navigation)
-* Web Scripting language of your choice
+### PC parts market Commercial Website ###
+* Wordpress source code
+* Database export file wordpress.sql
+
+
+### Username & Password ###
+*manager user
+username: root
+password: root
+*Custmor user
+username: wordpress
+password: wordpress
